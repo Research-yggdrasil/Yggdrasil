@@ -14,8 +14,6 @@ A Python-based system that processes diary entries, extracts sensory events, tag
 * [Usage](#usage)
 * [Module Details](#module-details)
 * [Output & Results](#output--results)
-* [Contributing](#contributing)
-* [License](#license)
 
 ---
 
@@ -87,7 +85,7 @@ This project implements an emotionally grounded cognitive architecture inspired 
        api_key="<YOUR_API_KEY>"
    )
    ```
-2. **Input Data**: Place your diary PDF in `data/` and update the path in `src/main.py` if necessary.
+2. **Input Data**: Diary is taken from https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/anne_frank_-_the_diary_of_a_young_girl_book_website.pdf and is available in the data folder
 
 ## Usage
 
@@ -121,14 +119,7 @@ Progress and summaries are printed to the console. Upon completion, results are 
 * **helper.py**: Central utilities including LLM client setup, similarity calculations, date extraction, and cleaning.
 * **main.py**: Coordinates the end-to-end simulation phases.
 
-## Contributing
 
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Submit a pull request
 
 ## License
 
