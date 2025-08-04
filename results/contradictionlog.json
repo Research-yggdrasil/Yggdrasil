@@ -1,0 +1,818 @@
+[
+  {
+    "concept": "feeling of chaos",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.46,
+    "event_id": "event_84d4b2",
+    "timestamp": "2025-08-04T11:47:19.133264"
+  },
+  {
+    "concept": "feeling of uncertainty",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.48,
+    "event_id": "event_a9331f",
+    "timestamp": "2025-08-04T11:47:20.957099"
+  },
+  {
+    "concept": "Sunday afternoon",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.32,
+    "event_id": "event_34c559",
+    "timestamp": "2025-08-04T11:47:21.866253"
+  },
+  {
+    "concept": "whispered voice",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_6b8515",
+    "timestamp": "2025-08-04T11:47:25.601820"
+  },
+  {
+    "concept": "feeling of shock",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.48,
+    "event_id": "event_6028fc",
+    "timestamp": "2025-08-04T11:47:27.583213"
+  },
+  {
+    "concept": "ominous tone",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_26f865",
+    "timestamp": "2025-08-04T11:47:28.468419"
+  },
+  {
+    "concept": "dark visions",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.48,
+    "event_id": "event_c1cab9",
+    "timestamp": "2025-08-04T11:47:29.388163"
+  },
+  {
+    "concept": "feeling of guilt",
+    "prior_emotion": "Anger",
+    "new_emotion": "Sadness",
+    "error": 0.32,
+    "event_id": "event_1f6fa4",
+    "timestamp": "2025-08-04T11:47:30.364005"
+  },
+  {
+    "concept": "anxious waiting",
+    "prior_emotion": "Joy",
+    "new_emotion": "Fear",
+    "error": 0.51,
+    "event_id": "event_9ac050",
+    "timestamp": "2025-08-04T11:47:32.265588"
+  },
+  {
+    "concept": "group setting",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Joy",
+    "error": 0.36,
+    "event_id": "event_2db635",
+    "timestamp": "2025-08-04T11:47:34.266836"
+  },
+  {
+    "concept": "silence",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Sadness",
+    "error": 0.56,
+    "event_id": "event_fc2019",
+    "timestamp": "2025-08-04T11:47:36.590264"
+  },
+  {
+    "concept": "heat",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_51955b",
+    "timestamp": "2025-08-04T11:47:37.449514"
+  },
+  {
+    "concept": "doorbell ringing",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.22,
+    "event_id": "event_27681c",
+    "timestamp": "2025-08-04T11:47:38.414841"
+  },
+  {
+    "concept": "loud voice",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.42,
+    "event_id": "event_d38f99",
+    "timestamp": "2025-08-04T11:47:40.242953"
+  },
+  {
+    "concept": "urgent voice",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_cef178",
+    "timestamp": "2025-08-04T11:47:41.131771"
+  },
+  {
+    "concept": "muffled voices",
+    "prior_emotion": "Anger",
+    "new_emotion": "Curiosity",
+    "error": 0.4,
+    "event_id": "event_28f40d",
+    "timestamp": "2025-08-04T11:47:42.036737"
+  },
+  {
+    "concept": "bell ringing",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Fear",
+    "error": 0.21,
+    "event_id": "event_ad28ab",
+    "timestamp": "2025-08-04T11:47:43.114256"
+  },
+  {
+    "concept": "being sent away",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.31,
+    "event_id": "event_81cf9c",
+    "timestamp": "2025-08-04T11:47:44.183349"
+  },
+  {
+    "concept": "intimate setting",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.31,
+    "event_id": "event_be5853",
+    "timestamp": "2025-08-04T11:47:45.243485"
+  },
+  {
+    "concept": "feeling of uncertainty",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Fear",
+    "error": 0.31,
+    "event_id": "event_ee66dc",
+    "timestamp": "2025-08-04T11:47:47.188489"
+  },
+  {
+    "concept": "feeling of fear",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.56,
+    "event_id": "event_ce3f11",
+    "timestamp": "2025-08-04T11:47:49.074194"
+  },
+  {
+    "concept": "sense of uncertainty",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.49,
+    "event_id": "event_72ff16",
+    "timestamp": "2025-08-04T11:47:49.995199"
+  },
+  {
+    "concept": "school environment",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_434e28",
+    "timestamp": "2025-08-04T11:47:56.867934"
+  },
+  {
+    "concept": "cluttered space",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.56,
+    "event_id": "event_0d1da6",
+    "timestamp": "2025-08-04T11:47:59.031528"
+  },
+  {
+    "concept": "arrival",
+    "prior_emotion": "Anger",
+    "new_emotion": "Joy",
+    "error": 0.4,
+    "event_id": "event_ff0cbb",
+    "timestamp": "2025-08-04T11:48:03.424603"
+  },
+  {
+    "concept": "evening atmosphere",
+    "prior_emotion": "Anger",
+    "new_emotion": "Curiosity",
+    "error": 0.4,
+    "event_id": "event_03a0af",
+    "timestamp": "2025-08-04T11:48:06.801621"
+  },
+  {
+    "concept": "arrival of visitors",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.32,
+    "event_id": "event_f0b414",
+    "timestamp": "2025-08-04T11:48:07.997545"
+  },
+  {
+    "concept": "quick movements",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_34c607",
+    "timestamp": "2025-08-04T11:48:09.979823"
+  },
+  {
+    "concept": "feeling of fear",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_3a0fa6",
+    "timestamp": "2025-08-04T11:48:16.006914"
+  },
+  {
+    "concept": "feeling of suffocation",
+    "prior_emotion": "Anger",
+    "new_emotion": "Sadness",
+    "error": 0.32,
+    "event_id": "event_5c60d8",
+    "timestamp": "2025-08-04T11:48:18.710557"
+  },
+  {
+    "concept": "school environment",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.52,
+    "event_id": "event_8c2921",
+    "timestamp": "2025-08-04T11:48:19.632862"
+  },
+  {
+    "concept": "uncertainty",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Fear",
+    "error": 0.46,
+    "event_id": "event_6d1654",
+    "timestamp": "2025-08-04T11:48:21.195086"
+  },
+  {
+    "concept": "written note",
+    "prior_emotion": "Joy",
+    "new_emotion": "Love/Attachment",
+    "error": 0.24,
+    "event_id": "event_36b46c",
+    "timestamp": "2025-08-04T11:48:23.202539"
+  },
+  {
+    "concept": "quiet moment",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Love/Attachment",
+    "error": 0.52,
+    "event_id": "event_1b39a9",
+    "timestamp": "2025-08-04T11:48:30.670097"
+  },
+  {
+    "concept": "pouring rain",
+    "prior_emotion": "Anger",
+    "new_emotion": "Love/Attachment",
+    "error": 0.63,
+    "event_id": "event_e375f1",
+    "timestamp": "2025-08-04T11:49:39.026247"
+  },
+  {
+    "concept": "early morning",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.42,
+    "event_id": "event_5bc491",
+    "timestamp": "2025-08-04T11:49:40.116715"
+  },
+  {
+    "concept": "walking",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.29,
+    "event_id": "event_24a72b",
+    "timestamp": "2025-08-04T11:49:41.080263"
+  },
+  {
+    "concept": "office environment",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.27,
+    "event_id": "event_7ef1e9",
+    "timestamp": "2025-08-04T11:49:45.019731"
+  },
+  {
+    "concept": "office environment",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Fear",
+    "error": 0.36,
+    "event_id": "event_b73841",
+    "timestamp": "2025-08-04T11:49:46.878210"
+  },
+  {
+    "concept": "indoor environment",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_89036a",
+    "timestamp": "2025-08-04T11:49:49.273795"
+  },
+  {
+    "concept": "warehouse doors",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.4,
+    "event_id": "event_2bba4a",
+    "timestamp": "2025-08-04T11:49:51.331435"
+  },
+  {
+    "concept": "office environment",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_0389d7",
+    "timestamp": "2025-08-04T11:49:52.364596"
+  },
+  {
+    "concept": "frosted window",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_9cc86e",
+    "timestamp": "2025-08-04T11:49:53.441298"
+  },
+  {
+    "concept": "large space",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.52,
+    "event_id": "event_f0c115",
+    "timestamp": "2025-08-04T11:49:54.399019"
+  },
+  {
+    "concept": "dark room",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.2,
+    "event_id": "event_1ac0ca",
+    "timestamp": "2025-08-04T11:49:56.423161"
+  },
+  {
+    "concept": "elegant furniture",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Joy",
+    "error": 0.52,
+    "event_id": "event_1c5e49",
+    "timestamp": "2025-08-04T11:50:00.699395"
+  },
+  {
+    "concept": "spacious room",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_30409f",
+    "timestamp": "2025-08-04T11:50:01.664796"
+  },
+  {
+    "concept": "stairs",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_6c12cb",
+    "timestamp": "2025-08-04T11:50:04.644457"
+  },
+  {
+    "concept": "old house",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_e757e3",
+    "timestamp": "2025-08-04T11:50:05.639556"
+  },
+  {
+    "concept": "steep stairs",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.2,
+    "event_id": "event_352a2c",
+    "timestamp": "2025-08-04T11:50:06.728602"
+  },
+  {
+    "concept": "small step",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_dbb692",
+    "timestamp": "2025-08-04T11:50:09.775218"
+  },
+  {
+    "concept": "indoor setting",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_4aefd9",
+    "timestamp": "2025-08-04T11:50:12.720141"
+  },
+  {
+    "concept": "windowless",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.2,
+    "event_id": "event_f3b264",
+    "timestamp": "2025-08-04T11:50:14.771143"
+  },
+  {
+    "concept": "large room",
+    "prior_emotion": "Joy",
+    "new_emotion": "Curiosity",
+    "error": 0.37,
+    "event_id": "event_6330cf",
+    "timestamp": "2025-08-04T11:50:17.711683"
+  },
+  {
+    "concept": "stove",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_7d1cdc",
+    "timestamp": "2025-08-04T11:50:18.804952"
+  },
+  {
+    "concept": "indoor environment",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_71be0f",
+    "timestamp": "2025-08-04T11:50:22.195151"
+  },
+  {
+    "concept": "plain tone",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Anger",
+    "error": 0.46,
+    "event_id": "event_a5b9b7",
+    "timestamp": "2025-08-04T11:50:23.169576"
+  },
+  {
+    "concept": "quiet",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Love/Attachment",
+    "error": 0.51,
+    "event_id": "event_187f03",
+    "timestamp": "2025-08-04T11:50:24.949245"
+  },
+  {
+    "concept": "quiet room",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Love/Attachment",
+    "error": 0.51,
+    "event_id": "event_8931ee",
+    "timestamp": "2025-08-04T11:50:53.596905"
+  },
+  {
+    "concept": "spoken narrative",
+    "prior_emotion": "Joy",
+    "new_emotion": "Curiosity",
+    "error": 0.24,
+    "event_id": "event_e36641",
+    "timestamp": "2025-08-04T11:50:55.141180"
+  },
+  {
+    "concept": "small room",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.2,
+    "event_id": "event_886906",
+    "timestamp": "2025-08-04T11:51:01.658455"
+  },
+  {
+    "concept": "messy environment",
+    "prior_emotion": "Fear",
+    "new_emotion": "Anger",
+    "error": 0.23,
+    "event_id": "event_db904f",
+    "timestamp": "2025-08-04T11:51:03.724712"
+  },
+  {
+    "concept": "stillness",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_8499ac",
+    "timestamp": "2025-08-04T11:51:04.655984"
+  },
+  {
+    "concept": "bare mattresses",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Sadness",
+    "error": 0.56,
+    "event_id": "event_244cd8",
+    "timestamp": "2025-08-04T11:51:08.202233"
+  },
+  {
+    "concept": "hunger",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.28,
+    "event_id": "event_79edc5",
+    "timestamp": "2025-08-04T11:51:11.183551"
+  },
+  {
+    "concept": "morning light",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Joy",
+    "error": 0.38,
+    "event_id": "event_fd65e7",
+    "timestamp": "2025-08-04T11:51:12.233556"
+  },
+  {
+    "concept": "busy atmosphere",
+    "prior_emotion": "Anger",
+    "new_emotion": "Love/Attachment",
+    "error": 0.44,
+    "event_id": "event_ef8d15",
+    "timestamp": "2025-08-04T11:51:13.319599"
+  },
+  {
+    "concept": "quiet reflection",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.28,
+    "event_id": "event_9fc14b",
+    "timestamp": "2025-08-04T11:51:15.792532"
+  },
+  {
+    "concept": "quiet moment",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Love/Attachment",
+    "error": 0.51,
+    "event_id": "event_a48a42",
+    "timestamp": "2025-08-04T11:51:16.700171"
+  },
+  {
+    "concept": "reassuring sound",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Joy",
+    "error": 0.32,
+    "event_id": "event_d5ce7e",
+    "timestamp": "2025-08-04T11:52:26.800848"
+  },
+  {
+    "concept": "feeling of secrecy",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Fear",
+    "error": 0.56,
+    "event_id": "event_e120d8",
+    "timestamp": "2025-08-04T11:52:28.087428"
+  },
+  {
+    "concept": "uncertainty",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_403740",
+    "timestamp": "2025-08-04T11:52:29.034636"
+  },
+  {
+    "concept": "hidden space",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Love/Attachment",
+    "error": 0.51,
+    "event_id": "event_a83593",
+    "timestamp": "2025-08-04T11:52:33.106570"
+  },
+  {
+    "concept": "damp",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.31,
+    "event_id": "event_fffa1c",
+    "timestamp": "2025-08-04T11:52:34.428206"
+  },
+  {
+    "concept": "colorful pictures",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.29,
+    "event_id": "event_ca7a7c",
+    "timestamp": "2025-08-04T11:52:37.233384"
+  },
+  {
+    "concept": "wood piled in the attic",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.29,
+    "event_id": "event_5fafc7",
+    "timestamp": "2025-08-04T11:52:39.226476"
+  },
+  {
+    "concept": "relief",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.29,
+    "event_id": "event_2d8691",
+    "timestamp": "2025-08-04T11:52:40.171250"
+  },
+  {
+    "concept": "private office",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Curiosity",
+    "error": 0.22,
+    "event_id": "event_ab39c5",
+    "timestamp": "2025-08-04T11:52:43.078341"
+  },
+  {
+    "concept": "feeling of fear",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_c3932f",
+    "timestamp": "2025-08-04T11:52:44.136436"
+  },
+  {
+    "concept": "fear of being heard",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_f74f59",
+    "timestamp": "2025-08-04T11:52:45.991138"
+  },
+  {
+    "concept": "sewing sounds",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.36,
+    "event_id": "event_0a494e",
+    "timestamp": "2025-08-04T11:52:46.898863"
+  },
+  {
+    "concept": "works of art",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.32,
+    "event_id": "event_138240",
+    "timestamp": "2025-08-04T11:52:48.772101"
+  },
+  {
+    "concept": "empty premises",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Fear",
+    "error": 0.31,
+    "event_id": "event_c1922e",
+    "timestamp": "2025-08-04T11:52:50.775316"
+  },
+  {
+    "concept": "night",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.29,
+    "event_id": "event_1e9d21",
+    "timestamp": "2025-08-04T11:52:51.815886"
+  },
+  {
+    "concept": "anticipation",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.29,
+    "event_id": "event_9368c7",
+    "timestamp": "2025-08-04T11:52:52.735967"
+  },
+  {
+    "concept": "anticipation of fun",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Joy",
+    "error": 0.34,
+    "event_id": "event_2ce7f1",
+    "timestamp": "2025-08-04T11:52:53.644476"
+  },
+  {
+    "concept": "silence",
+    "prior_emotion": "Fear",
+    "new_emotion": "Sadness",
+    "error": 0.48,
+    "event_id": "event_f27389",
+    "timestamp": "2025-08-04T11:52:54.547819"
+  },
+  {
+    "concept": "domestic environment",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Joy",
+    "error": 0.29,
+    "event_id": "event_d0c613",
+    "timestamp": "2025-08-04T11:52:57.461727"
+  },
+  {
+    "concept": "quiet atmosphere",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Fear",
+    "error": 0.35,
+    "event_id": "event_a42ca7",
+    "timestamp": "2025-08-04T11:53:00.055018"
+  },
+  {
+    "concept": "confined space",
+    "prior_emotion": "Anger",
+    "new_emotion": "Fear",
+    "error": 0.45,
+    "event_id": "event_704260",
+    "timestamp": "2025-08-04T11:53:05.263830"
+  },
+  {
+    "concept": "feeling of isolation",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.29,
+    "event_id": "event_7dc274",
+    "timestamp": "2025-08-04T11:53:45.971429"
+  },
+  {
+    "concept": "feeling of accomplishment",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Anger",
+    "error": 0.55,
+    "event_id": "event_ca22d0",
+    "timestamp": "2025-08-04T11:53:46.903907"
+  },
+  {
+    "concept": "scolding tone",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.3,
+    "event_id": "event_fce979",
+    "timestamp": "2025-08-04T11:53:49.701740"
+  },
+  {
+    "concept": "afternoon light",
+    "prior_emotion": "Fear",
+    "new_emotion": "Anger",
+    "error": 0.54,
+    "event_id": "event_b4b03e",
+    "timestamp": "2025-08-04T11:53:51.961109"
+  },
+  {
+    "concept": "feeling of isolation",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Sadness",
+    "error": 0.55,
+    "event_id": "event_401995",
+    "timestamp": "2025-08-04T11:53:53.944951"
+  },
+  {
+    "concept": "feeling of isolation",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.3,
+    "event_id": "event_e219b3",
+    "timestamp": "2025-08-04T11:53:55.694756"
+  },
+  {
+    "concept": "feeling of isolation",
+    "prior_emotion": "Love/Attachment",
+    "new_emotion": "Sadness",
+    "error": 0.3,
+    "event_id": "event_618699",
+    "timestamp": "2025-08-04T11:53:56.604550"
+  },
+  {
+    "concept": "feeling of embarrassment",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Sadness",
+    "error": 0.55,
+    "event_id": "event_75a3db",
+    "timestamp": "2025-08-04T11:53:57.584148"
+  },
+  {
+    "concept": "feeling of horror",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Fear",
+    "error": 0.62,
+    "event_id": "event_47d55b",
+    "timestamp": "2025-08-04T11:53:58.497353"
+  },
+  {
+    "concept": "confined space",
+    "prior_emotion": "Curiosity",
+    "new_emotion": "Sadness",
+    "error": 0.55,
+    "event_id": "event_7a70cf",
+    "timestamp": "2025-08-04T11:54:04.019643"
+  },
+  {
+    "concept": "emotional vulnerability",
+    "prior_emotion": "Joy",
+    "new_emotion": "Love/Attachment",
+    "error": 0.48,
+    "event_id": "event_239981",
+    "timestamp": "2025-08-04T11:54:07.653235"
+  },
+  {
+    "concept": "introspective mood",
+    "prior_emotion": "Sadness",
+    "new_emotion": "Curiosity",
+    "error": 0.2,
+    "event_id": "event_8b6076",
+    "timestamp": "2025-08-04T11:54:12.329419"
+  }
+]

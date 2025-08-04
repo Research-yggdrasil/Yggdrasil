@@ -1,0 +1,688 @@
+{
+  "feeling of chaos": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:19.133276"
+    }
+  ],
+  "feeling of uncertainty": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:20.957107"
+    },
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:47.188497"
+    }
+  ],
+  "Sunday afternoon": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:47:21.866260"
+    }
+  ],
+  "whispered voice": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:25.601828"
+    }
+  ],
+  "feeling of shock": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:27.583221"
+    }
+  ],
+  "ominous tone": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:28.468427"
+    }
+  ],
+  "dark visions": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:29.388170"
+    }
+  ],
+  "feeling of guilt": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:30.364013"
+    }
+  ],
+  "anxious waiting": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:32.265600"
+    }
+  ],
+  "group setting": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:47:34.266843"
+    }
+  ],
+  "silence": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:36.590274"
+    },
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:54.547827"
+    }
+  ],
+  "heat": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:37.449522"
+    }
+  ],
+  "doorbell ringing": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:47:38.414848"
+    }
+  ],
+  "loud voice": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.9,
+      "timestamp": "2025-08-04T11:47:40.242960"
+    }
+  ],
+  "urgent voice": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:41.131780"
+    }
+  ],
+  "muffled voices": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:47:42.036745"
+    }
+  ],
+  "bell ringing": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:47:43.114270"
+    }
+  ],
+  "being sent away": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:44.183359"
+    }
+  ],
+  "intimate setting": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:45.243493"
+    }
+  ],
+  "feeling of fear": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:49.074202"
+    },
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:16.006923"
+    },
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:44.136445"
+    }
+  ],
+  "sense of uncertainty": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:49.995207"
+    }
+  ],
+  "school environment": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:56.867942"
+    },
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:19.632870"
+    }
+  ],
+  "cluttered space": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:47:59.031541"
+    }
+  ],
+  "arrival": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:03.424612"
+    }
+  ],
+  "evening atmosphere": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:48:06.801629"
+    }
+  ],
+  "arrival of visitors": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:48:07.997552"
+    }
+  ],
+  "quick movements": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:09.979831"
+    }
+  ],
+  "feeling of suffocation": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:18.710568"
+    }
+  ],
+  "uncertainty": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:48:21.195094"
+    },
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:52:29.034647"
+    }
+  ],
+  "written note": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:23.202550"
+    }
+  ],
+  "quiet moment": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:48:30.670105"
+    },
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:51:16.700179"
+    }
+  ],
+  "pouring rain": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:49:39.026254"
+    }
+  ],
+  "early morning": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:49:40.116723"
+    }
+  ],
+  "walking": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:49:41.080271"
+    }
+  ],
+  "office environment": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:49:45.019739"
+    },
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:49:46.878219"
+    },
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:49:52.364604"
+    }
+  ],
+  "indoor environment": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:49:49.273803"
+    },
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:22.195161"
+    }
+  ],
+  "warehouse doors": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.4,
+      "timestamp": "2025-08-04T11:49:51.331444"
+    }
+  ],
+  "frosted window": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:49:53.441308"
+    }
+  ],
+  "large space": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:49:54.399028"
+    }
+  ],
+  "dark room": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:49:56.423169"
+    }
+  ],
+  "elegant furniture": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:50:00.699403"
+    }
+  ],
+  "spacious room": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:01.664804"
+    }
+  ],
+  "stairs": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:04.644464"
+    }
+  ],
+  "old house": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:05.639570"
+    }
+  ],
+  "steep stairs": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:06.728618"
+    }
+  ],
+  "small step": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:09.775226"
+    }
+  ],
+  "indoor setting": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:12.720152"
+    }
+  ],
+  "windowless": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:14.771151"
+    }
+  ],
+  "large room": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:50:17.711691"
+    }
+  ],
+  "stove": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:50:18.804969"
+    }
+  ],
+  "plain tone": [
+    {
+      "emotion": "Anger",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:50:23.169584"
+    }
+  ],
+  "quiet": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:50:24.949256"
+    }
+  ],
+  "quiet room": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:50:53.596917"
+    }
+  ],
+  "spoken narrative": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:50:55.141187"
+    }
+  ],
+  "small room": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:51:01.658464"
+    }
+  ],
+  "messy environment": [
+    {
+      "emotion": "Anger",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:51:03.724719"
+    }
+  ],
+  "stillness": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:51:04.655991"
+    }
+  ],
+  "bare mattresses": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:51:08.202241"
+    }
+  ],
+  "hunger": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:51:11.183559"
+    }
+  ],
+  "morning light": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:51:12.233564"
+    }
+  ],
+  "busy atmosphere": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:51:13.319612"
+    }
+  ],
+  "quiet reflection": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:51:15.792540"
+    }
+  ],
+  "reassuring sound": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:26.800857"
+    }
+  ],
+  "feeling of secrecy": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:28.087437"
+    }
+  ],
+  "hidden space": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:33.106578"
+    }
+  ],
+  "damp": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:52:34.428216"
+    }
+  ],
+  "colorful pictures": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:37.233403"
+    }
+  ],
+  "wood piled in the attic": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:39.226484"
+    }
+  ],
+  "relief": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:40.171258"
+    }
+  ],
+  "private office": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:52:43.078349"
+    }
+  ],
+  "fear of being heard": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:45.991148"
+    }
+  ],
+  "sewing sounds": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:52:46.898870"
+    }
+  ],
+  "works of art": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:48.772109"
+    }
+  ],
+  "empty premises": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:52:50.775325"
+    }
+  ],
+  "night": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:51.815894"
+    }
+  ],
+  "anticipation": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:52.735975"
+    }
+  ],
+  "anticipation of fun": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:53.644484"
+    }
+  ],
+  "domestic environment": [
+    {
+      "emotion": "Joy",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:52:57.461736"
+    }
+  ],
+  "quiet atmosphere": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:53:00.055026"
+    }
+  ],
+  "confined space": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.9,
+      "timestamp": "2025-08-04T11:53:05.263839"
+    },
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:54:04.019651"
+    }
+  ],
+  "feeling of isolation": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:45.971438"
+    },
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:53.944958"
+    },
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:55.694768"
+    },
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:56.604558"
+    }
+  ],
+  "feeling of accomplishment": [
+    {
+      "emotion": "Anger",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:46.903917"
+    }
+  ],
+  "scolding tone": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:49.701752"
+    }
+  ],
+  "afternoon light": [
+    {
+      "emotion": "Anger",
+      "intensity": 0.7,
+      "timestamp": "2025-08-04T11:53:51.961117"
+    }
+  ],
+  "feeling of embarrassment": [
+    {
+      "emotion": "Sadness",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:57.584157"
+    }
+  ],
+  "feeling of horror": [
+    {
+      "emotion": "Fear",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:53:58.497361"
+    }
+  ],
+  "emotional vulnerability": [
+    {
+      "emotion": "Love/Attachment",
+      "intensity": 0.8,
+      "timestamp": "2025-08-04T11:54:07.653242"
+    }
+  ],
+  "introspective mood": [
+    {
+      "emotion": "Curiosity",
+      "intensity": 0.6,
+      "timestamp": "2025-08-04T11:54:12.329426"
+    }
+  ]
+}

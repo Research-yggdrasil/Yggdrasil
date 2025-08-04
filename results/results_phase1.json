@@ -1,0 +1,6036 @@
+[
+  {
+    "Event ID": "event_1",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "birthday presents",
+      "table",
+      "feeling of excitement",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "SUNDAY, JUNE 14, 1942 , I'll begin from the moment I got you, the moment I saw you lying on the table among my other birthday presents.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_2",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of detachment",
+      "sense of resignation",
+      "tone of sarcasm"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "(I went along when you were bought, but that doesn't count.)",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_3",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "early morning",
+      "birthday atmosphere",
+      "personal reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "On Friday, June 12, I was awake at six o'clock, which isn't surprising, since it was my birthday.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_4",
+    "Temporal Context": {
+      "TimeOfDay": "Early Morning",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "early morning",
+      "feeling of restraint",
+      "anticipation",
+      "home environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "But I'm not allowed to get up at that hour, so I had to control my curiosity until quarter to seven.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_5",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm dining room",
+      "gentle rubbing",
+      "familiar pet presence",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Pet",
+    "Raw Text": "When I couldn't wait any longer, I went to the dining room, where Moortje (the cat) welcomed me by rubbing against my legs.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_6",
+    "Temporal Context": {
+      "TimeOfDay": "Morning",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm lighting",
+      "family environment",
+      "sound of wrapping paper",
+      "feeling of excitement",
+      "love"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "A little after seven I went to Daddy and Mama and then to the living room to open my presents, and you were the first thing I saw, maybe one of my nicest presents.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_7",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "flowers",
+      "roses",
+      "peonies",
+      "potted plant",
+      "pleasant smell"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Then a bouquet of roses, some peonies and a potted plant.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_8",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "gifts",
+      "blue blouse",
+      "grape juice",
+      "cold cream",
+      "puzzle"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "From Daddy and Mama I got a blue blouse, a game, a bottle of grape juice, which to my mind tastes a bit like wine (after all, wine is made from grapes), a puzzle, a jar of cold cream, 2.50 guilders and a gift certificate for two books.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_9",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "homemade cookies",
+      "lots of candy",
+      "strawberry tart",
+      "family environment",
+      "feeling of warmth"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I got another book as well, Camera Obscura (but Margot already has it, so I exchanged mine for something else), a platter of homemade cookies (which I made myself, of course, since I've become quite an expert at baking cookies), lots of candy and a strawberry tart from Mother.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_10",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "letter in hand",
+      "feeling of surprise",
+      "sense of coincidence",
+      "personal connection"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "And a letter from Grammy, right on time, but of course that was just a coincidence.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_11",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "presence of friend",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Friend",
+    "Raw Text": "Then Hanneli came to pick me up, and we went to school.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_12",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "cookies",
+      "social interaction",
+      "classroom setting",
+      "feeling of community"
+    ],
+    "Social Context": "With Class",
+    "Raw Text": "During recess I passed out cookies to my teachers and my class, and then it was time to get back to work.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_13",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "gym environment",
+      "exhaustion",
+      "group of classmates",
+      "late afternoon"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "I didn't arrive home until five, since I went to gym with the rest of the class.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_14",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "physical discomfort",
+      "feeling of frustration",
+      "sense of exclusion"
+    ],
+    "Social Context": "With Others (excluded)",
+    "Raw Text": "(I'm not allowed to take part because my shoulders and hips tend to get dislocated.)",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_15",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "classmates",
+      "volleyball game",
+      "feeling of excitement",
+      "sense of control"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "As it was my birthday, I got to decide which game my classmates would play, and I chose volleyball.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_16",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cheerful voices",
+      "circle of people",
+      "birthday song",
+      "feeling of celebration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Afterward they all danced around me in a circle and sang \"Happy Birthday.\"",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_17",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "familiar home environment",
+      "presence of someone else",
+      "unexpected guest"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "When I got home, Sanne Ledermann was already there.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_18",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "gym",
+      "friendship",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "Ilse Wagner, Hanneli Goslar and Jacqueline van Maarsen came home with me after gym, since we're in the same class.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_19",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "nostalgic feeling",
+      "memories of friendship",
+      "sense of longing"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "Hanneli and Sanne used to be my two best friends.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_20",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "group setting",
+      "familiar voices",
+      "social recognition",
+      "feeling of togetherness"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "People who saw us together used to say, 'There goes Anne, Hanne and Sanne.'",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_21",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "friendly conversation",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Friend",
+    "Raw Text": "I only met Jacqueline van Maarsen when I started at the Jewish Lyceum, and now she's my best friend.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_22",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "social interaction",
+      "friendship"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "Ilse is Hanneli's best friend, and Sanne goes to another school and has friends there.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_23",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "gift giving",
+      "beautiful book",
+      "puzzle",
+      "darling brooch",
+      "family environment",
+      "feeling of joy"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "They gave me a beautiful book, Dutch Sasas and Lesends, but they gave me Volume II by mistake, so I exchanged two other books for Volume I. Aunt Helene brought me a puzzle, Aunt Stephanie a darling brooch and Aunt Leny a terrific book: Daisy Goes to the Mountains.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_24",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm water",
+      "quiet morning",
+      "feeling of relaxation",
+      "domestic environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "This morning I lay in the bathtub thinking how wonderful it would be if I had a dog like Rin Tin Tin.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_25",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "bicycle racks",
+      "janitor's room",
+      "good weather"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I'd call him Rin Tin Tin too, and I'd take him to school with me, where he could stay in the janitor's room or by the bicycle racks when the weather was good.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_26",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "celebratory atmosphere",
+      "afternoon sunlight",
+      "family gathering",
+      "feeling of joy"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "MONDAY, JUNE 15, 1942 , I had my birthday party on Sunday afternoon.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_27",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "classmates",
+      "movie"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "The Rin Tin Tin movie was a big hit with my classmates.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_28",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "receiving gifts",
+      "feeling of excitement",
+      "handling small objects",
+      "personal treasures"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "I got two brooches, a bookmark and two books.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_29",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "class setting",
+      "students present",
+      "formal atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I'll start by saying a few things about my school and my class, beginning with the students.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_30",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "observation of someone's appearance",
+      "feeling of pity",
+      "social comparison"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Betty Bloemendaal looks kind of poor, and I think she probably is.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_31",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "unknown location",
+      "feeling of disorientation",
+      "urban environment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "She lives on some obscure street in West Amsterdam, and none of us know where it is.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_32",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of criticism",
+      "tone of skepticism"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She does very well at school, but that's because she works so hard, not because she's so smart.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_33",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "feeling of calmness"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's pretty quiet.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_34",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "emptiness",
+      "loneliness"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Jacqueline van Maarsen is supposedly my best friend, but I've never had a real friend.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_35",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of surprise",
+      "realization of mistake",
+      "introspective atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At first I thought Jacque would be one, but I was badly mistaken.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_36",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "ambiguous input",
+      "lack of visual detail",
+      "confusion"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "D.Q.*",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_37",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "formal setting",
+      "official documentation",
+      "neutral tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "[* Initials have been assigned at random to those persons who prefer to remain anonymous.]",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_38",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of anxiety",
+      "sense of overwhelm",
+      "authority figures"
+    ],
+    "Social Context": "With Authority Figures",
+    "Raw Text": "is a very nervous girl who's always forgetting things, so the teachers keep assigning her extra homework as punishment.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_39",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversation",
+      "amused tone",
+      "social setting",
+      "feeling of annoyance"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "She's very kind, especially to G.Z. E.S. talks so much it isn't funny.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_40",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "touching",
+      "fiddling",
+      "physical contact",
+      "intimate gesture"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "She's always touching your hair or fiddling with your buttons when she asks you something.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_41",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "tense atmosphere",
+      "feeling of dislike",
+      "conflictual relationship",
+      "emotional detachment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "They say she can't stand me, but I don't care, since I don't like her much either.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_42",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "loud voice",
+      "outdoors",
+      "playful atmosphere",
+      "cheerful disposition"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Henny Mets is a nice girl with a cheerful disposition, except that she talks in a loud voice and is really childish when we're playing outdoors.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_43",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative emotional tone",
+      "feeling of disapproval",
+      "social discomfort"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Unfortunately, Henny has a girlfriend named Beppy who's a bad influence on her because she's dirty and vulgar.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_44",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "reflective tone",
+      "nostalgic feeling",
+      "intimate setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "J.R. - I could write a whole book about her.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_45",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "negative emotional tone",
+      "feeling of resentment",
+      "hostile language"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "J. is a detestable, sneaky, stuck-up, two-faced gossip who thinks she's so grown-up.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_46",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "concerned tone",
+      "feeling of disapproval",
+      "social observation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "She's really got Jacque under her spell, and that's a shame.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_47",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emotional tension",
+      "feeling of frustration",
+      "confrontational tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "J. is easily offended, bursts into tears at the slightest thing and, to top it all off, is a terrible show-off.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_48",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of frustration",
+      "tone of annoyance",
+      "social tension"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Miss J. always has to be right.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_49",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "adorned closet",
+      "colorful dresses",
+      "feeling of luxury",
+      "youthful atmosphere"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "She's very rich, and has a closet full of the most adorable dresses that are way too old for her.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_50",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative tone",
+      "critical voice",
+      "social comparison",
+      "emotional judgment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She thinks she's gorgeous, but she's not.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_51",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "tense atmosphere",
+      "feeling of hostility",
+      "emotional discomfort"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "J. and I can't stand each other.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_52",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cheerful atmosphere",
+      "moaning and groaning sounds",
+      "feeling of frustration"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Ilse Wagner is a nice girl with a cheerful disposition, but she's extremely fInicky and can spend hours moaning and groaning about something.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_53",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive emotional tone",
+      "feeling of affection",
+      "social interaction"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "Ilse likes me a lot.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_54",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "judgmental tone",
+      "negative emotion",
+      "personal criticism"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's very smart, but lazy.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_55",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of being different"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Hanneli Goslar, or Lies as she's called at school, is a bit on the strange side.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_56",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "reserved atmosphere",
+      "feeling of shyness",
+      "home environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's usually shy -- outspoken at home, but reserved around other people.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_57",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversation",
+      "sharing secrets",
+      "family environment",
+      "feeling of distrust"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "She blabs whatever you tell her to her mother.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_58",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm conversation",
+      "feeling of appreciation",
+      "intimate setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But she says what she thinks, and lately I've come to appreciate her a great deal.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_59",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "amused tone",
+      "positive description",
+      "personal observation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Nannie van Praag-Sigaar is small, funny and sensible.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_60",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "neutral tone",
+      "positive sentiment",
+      "reflective atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I think she's nice.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_61",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "casual conversation",
+      "positive tone",
+      "complimentary remark"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's pretty smart.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_62",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "silence",
+      "emptiness",
+      "feeling of finality"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "There isn't much else you can say about Nannie.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_63",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "admiring voice",
+      "personal opinion"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Eefje de Jong is, in my opinion, terrific.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_64",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "formal tone",
+      "perception of maturity",
+      "observation of a young girl"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Though she's only twelve, she's quite the lady.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_65",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of condescension",
+      "emotional hurt",
+      "sense of belittling"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She acts as if I were a baby.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_66",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "feeling of appreciation",
+      "warm interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's also very helpful, and I like her.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_67",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "classroom setting",
+      "admiring gaze"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "G.Z. is the prettiest girl in our class.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_68",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "neutral tone",
+      "casual conversation",
+      "negative judgment",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She has a nice face, but is kind of dumb.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_69",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "concerned tone",
+      "private conversation",
+      "school environment",
+      "feeling of worry"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I think they're going to hold her back a year, but of course I haven't told her that.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_70",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "silence",
+      "stillness",
+      "empty space",
+      "feeling of solitude"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "COMMENT ADDED BY ANNE AT A LATER DATE:",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_71",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "surprise",
+      "relief",
+      "school environment"
+    ],
+    "Social Context": "With Others (school)",
+    "Raw Text": "To my great surprise, G.Z. wasn't held back a year after all.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_72",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of togetherness",
+      "presence of peers"
+    ],
+    "Social Context": "With Peers",
+    "Raw Text": "And sitting next to G.Z. is the last of us twelve girls, me.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_73",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "ambiguous atmosphere",
+      "contemplative mood",
+      "neutral tone"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "There's a lot to be said about the boys, or maybe not so much after all.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_74",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of annoyance",
+      "sense of being admired",
+      "indoor setting",
+      "personal interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Maurice Coster is one of my many admirers, but pretty much of a pest.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_75",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "gossip",
+      "rumor",
+      "school environment",
+      "feeling of intrigue"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Sallie Springer has a filthy mind, and rumor has it that he's gone all the way.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_76",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "amused feeling",
+      "casual conversation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Still, I think he's terrific, because he's very funny.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_77",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "indifference",
+      "unrequited love",
+      "social rejection"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Emiel Bonewit is G.Z.'s admirer, but she doesn't care.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_78",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "monotone voice",
+      "uninteresting conversation",
+      "feeling of disengagement"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He's pretty boring.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_79",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative emotions",
+      "feeling of resentment",
+      "past intimate connection",
+      "current dislike"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Rob Cohen used to be in love with me too, but I can't stand him anymore.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_80",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "angry tone",
+      "hostile language",
+      "feeling of frustration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He's an obnoxious, two-faced, lying, sniveling little goof who has an awfully high opinion of himself.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_81",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "rural environment",
+      "natural light",
+      "feeling of simplicity"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Max van de Velde is a farm boy from Medemblik, but eminently suitable, as Margot would say.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_82",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative tone",
+      "disapproving language",
+      "social judgment",
+      "informal setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Herman Koopman also has a filthy mind, just like Jopie de Beer, who's a terrible flirt and absolutely girl-crazy.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_83",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative emotions",
+      "feeling of unease",
+      "intimate relationship",
+      "personal struggle"
+    ],
+    "Social Context": "With Friend",
+    "Raw Text": "Leo Blom is Jopie de Beer's best friend, but has been ruined by his dirty mind.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_84",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "formal setting"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Albert de Mesquita came from the Montessori School and skipped a grade.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_85",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "complimentary tone",
+      "positive statement",
+      "neutral environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He's really smart.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_86",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "comparative tone",
+      "feeling of competition"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Leo Slager came from the same school, but isn't as smart.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_87",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "new student",
+      "awkward atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Ru Stoppelmon is a short, goofy boy from Almelo who transferred to this school in the middle of the year.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_88",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "mischievous behavior",
+      "feeling of disobedience",
+      "sense of authority"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "C.N. does whatever he's not supposed to.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_89",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "laughter",
+      "presence of others",
+      "social gathering",
+      "warm atmosphere"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Jacques Kocernoot sits behind us, next to C., and we (G. and I) laugh ourselves silly.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_90",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "class environment",
+      "positive emotional tone",
+      "feeling of admiration"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "Harry Schaap is the most decent boy in our class.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_91",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "feeling of warmth",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He's nice.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_92",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "feeling of boredom",
+      "social interaction"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Werner Joseph is nice too, but all the changes taking place lately have made him too quiet, so he seems boring.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_93",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "urban environment",
+      "tough atmosphere",
+      "sense of separation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Sam Salomon is one of those tough guys from across the tracks.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_94",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "harsh tone",
+      "negative emotion",
+      "disapproving atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "A real brat.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_95",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "admiring gaze",
+      "feeling of being noticed",
+      "sense of appreciation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "(Admirer!)",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_96",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "informal conversation",
+      "judgmental tone",
+      "personal opinion"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Appie Riem is pretty Orthodox, but a brat too.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_97",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "writing",
+      "diary",
+      "quiet",
+      "personal space",
+      "reflective mood"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "SATURDAY, JUNE 20,1942 Writing in a diary is a really strange experience for someone like me.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_98",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of self-doubt",
+      "introspective mood"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Not only because I've never written anything before, but also because it seems to me that later on neither I nor anyone else will be interested in the musings of a thirteen-year-old schoolgirl.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_99",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "resigned tone",
+      "feeling of indifference",
+      "possibly quiet environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Oh well, it doesn't matter.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_100",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "need to express",
+      "emotional release",
+      "introspective mood",
+      "private setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I feel like writing, and I have an even greater need to get all kinds of things off my chest.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_101",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet contemplation",
+      "written words",
+      "stillness",
+      "feeling of introspection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Paper has more patience than people.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_102",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of depression",
+      "boredom",
+      "listlessness",
+      "home environment",
+      "physical inactivity"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I thought of this saying on one of those days when I was feeling a little depressed and was sitting at home with my chin in my hands, bored and listless, wondering whether to stay in or go out.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_103",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "stillness",
+      "dark thoughts",
+      "feeling of isolation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I finally stayed where I was, brooding.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_104",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet solitude",
+      "stiff-backed notebook",
+      "feeling of isolation",
+      "personal reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yes, paper does have more patience, and since I'm not planning to let anyone else read this stiff-backed notebook grandly referred to as a \"diary,\" unless I should ever find a real friend, it probably won't make a bit of difference.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_105",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of loneliness",
+      "emptiness",
+      "quiet solitude",
+      "personal reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Now I'm back to the point that prompted me to keep a diary in the first place: I don't have a friend.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_106",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "emptiness",
+      "loneliness"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Let me put it more clearly, since no one will believe that a thirteen year-old girl is completely alone in the world.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_107",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet tone",
+      "sense of finality",
+      "possibly indoor environment",
+      "feeling of defiance"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "And I'm not.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_108",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm family environment",
+      "sense of belonging",
+      "feeling of love"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I have loving parents and a sixteen-year-old sister, and there are about thirty people I can call friends.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_109",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "adoring eyes",
+      "broken pocket mirror",
+      "classroom environment",
+      "feeling of admiration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I have a throng of admirers who can't keep their adoring eyes off me and who sometimes have to resort to using a broken pocket mirror to try and catch a glimpse of me in the classroom.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_110",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm home",
+      "loving atmosphere",
+      "sense of belonging"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I have a family, loving aunts and a good home.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_111",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of loneliness",
+      "sense of emptiness",
+      "inner reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "No, on the surface I seem to have everything, except my one true friend.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_112",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "social laughter",
+      "warm atmosphere",
+      "feeling of belonging",
+      "joyful conversations"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "All I think about when I'm with friends is having a good time.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_113",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of avoidance",
+      "emotional numbness",
+      "ordinary conversation",
+      "inner turmoil"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "I can't bring myself to talk about anything but ordinary everyday things.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_114",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of frustration",
+      "sense of distance",
+      "obstacle or barrier"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We don't seem to be able to get any closer, and that's the problem.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_115",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of guilt",
+      "emotional distance",
+      "introspective mood"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Maybe it's my fault that we don't confide in each other.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_116",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "resignation",
+      "feeling of hopelessness",
+      "neutral tone",
+      "indoor setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "In any case, that's just how things are, and unfortunately they're not liable to change.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_117",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet reflection",
+      "personal space",
+      "writing"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "This is why I've started the diary.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_118",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet reflection",
+      "personal writing",
+      "intimate setting",
+      "feeling of companionship"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "To enhance the image of this long-awaited friend in my imagination, I don't want to jot down the facts in this diary the way most people would do, but I want the diary to be my friend, and I'm going to call this friend Kitty.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_119",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of reluctance",
+      "intimate setting",
+      "personal reflection",
+      "quiet atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Since no one would understand a word of my stories to Kitty if I were to plunge right in, I'd better provide a brief sketch of my life, much as I dislike doing so.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_120",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "family environment",
+      "warm feelings",
+      "sense of love"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My father, the most adorable father I've ever seen, didn't marry my mother until he was thirty-six and she was twenty-five.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_121",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "family environment",
+      "historical setting",
+      "distant memory"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My sister Margot was born in Frankfurt am Main in Germany in 1926.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_122",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "birth environment",
+      "hospital setting",
+      "family presence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I was born on June 12, 1929.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_123",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "childhood memory",
+      "city environment",
+      "family presence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I lived in Frankfurt until I was four.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_124",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "historical setting",
+      "formal business context"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Because we're Jewish, my father immigrated to Holland in 1933, when he became the Managing Director of the Dutch Opekta Company, which manufactures products used in making jam.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_125",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family presence",
+      "travel",
+      "separation",
+      "grandmother's home"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My mother, Edith Hollander Frank, went with him to Holland in September, while Margot and I were sent to Aachen to stay with our grandmother.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_126",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cold season",
+      "birthday celebration",
+      "feeling of surprise",
+      "table setting",
+      "gift wrapping"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Margot went to Holland in December, and I followed in February, when I was plunked down on the table as a birthday present for Margot.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_127",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "nursery school environment",
+      "sense of new beginnings",
+      "feeling of excitement"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I started right away at the Montessori nursery school.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_128",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of nostalgia",
+      "childhood setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I stayed there until I was six, at which time I started first grade.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_129",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "familiar authority figure",
+      "classroom setting"
+    ],
+    "Social Context": "With Authority Figure",
+    "Raw Text": "In sixth grade my teacher was Mrs. Kuperus, the principal.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_130",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "tears",
+      "heartbreaking farewell",
+      "school environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "At the end of the year we were both in tears as we said a heartbreaking farewell, because I'd been accepted at the Jewish Lyceum, where Margot also went to school.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_131",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of anxiety",
+      "distant suffering",
+      "family concern",
+      "historical turmoil"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Our lives were not without anxiety, since our relatives in Germany were suffering under Hitler's anti-Jewish laws.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_132",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "historical turmoil",
+      "sense of fear",
+      "family separation",
+      "foreign environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "After the pogroms in 1938 my two uncles (my mother's brothers) fled Germany, finding safe refuge in North America.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_133",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "sense of responsibility",
+      "new presence at home",
+      "feeling of warmth"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My elderly grandmother came to live with us.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_134",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "none"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "She was seventy-three years old at the time.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.2
+  },
+  {
+    "Event ID": "event_135",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "war atmosphere",
+      "feeling of fear",
+      "sense of oppression",
+      "historical setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "After May 1940 the good times were few and far between: first there was the war, then the capitulation and then the arrival of the Germans, which is when the trouble started for the Jews.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_136",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "restricted movement",
+      "feeling of oppression",
+      "yellow star",
+      "empty streets at night",
+      "limited access to public spaces",
+      "feeling of isolation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Our freedom was severely restricted by a series of anti-Jewish decrees: Jews were required to wear a yellow star; Jews were required to turn in their bicycles; Jews were forbidden to use street-cars; Jews were forbidden to ride in cars, even their own; Jews were required to do their shopping between 3 and 5 P.M.; Jews were required to frequent only Jewish-owned barbershops and beauty parlors; Jews were forbidden to be out on the streets between 8 P.M. and 6 A.M.; Jews were forbidden to attend theaters, movies or any other forms of entertainment; Jews were forbidden to use swimming pools, tennis courts, hockey fields or any other athletic fields; Jews were forbidden to go rowing; Jews were forbidden to take part in any athletic activity in public; Jews were forbidden to sit in their gardens or those of their friends after 8 P.M.; Jews were forbidden to visit Christians in their homes; Jews were required to attend Jewish schools, etc.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_137",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "restrictive environment",
+      "feeling of frustration",
+      "sense of resignation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "You couldn't do this and you couldn't do that, but life went on.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_138",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "constricted environment",
+      "sense of restriction",
+      "intimate conversation"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "Jacque always said to me, \"I don't dare do anything anymore, 'cause I'm afraid it's not allowed.\"",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_139",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "summer",
+      "lack of celebration",
+      "family concern",
+      "hospital environment",
+      "feeling of disappointment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "In the summer of 1941 Grandma got sick and had to have an operation, so my birthday passed with little celebration.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_140",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "summer atmosphere",
+      "post-war setting",
+      "feeling of restraint"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "In the summer of 1940 we didn't do much for my birthday either, since the fighting had just ended in Holland.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_141",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "somber mood",
+      "feeling of loss",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Grandma died in January 1942.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_142",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of longing",
+      "emotional pain",
+      "intimate thoughts",
+      "solitary reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "No one knows how often I think of her and still love her.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_143",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "candlelight",
+      "celebratory atmosphere",
+      "warm gathering",
+      "family environment",
+      "feeling of joy"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "This birthday celebration in 1942 was intended to make up for the others, and Grandma's candle was lit along with the rest.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_144",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of togetherness",
+      "sense of relief",
+      "positive atmosphere"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The four of us are still doing well, and that brings me to the present date of",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_145",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "written words",
+      "personal letter",
+      "intimate tone",
+      "quiet setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "SATURDAY, JUNE 20, 1942 , Dearest Kitty!",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_146",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet environment",
+      "sense of calmness"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Let me get started right away; it's nice and quiet now.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_147",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "empty house",
+      "sound of ping-pong",
+      "feeling of freedom",
+      "leisure environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Father and Mother are out and Margot has gone to play Ping-Pong with some other young people at her friend Trees's.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_148",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "recreational activity",
+      "sound of paddles",
+      "table tennis environment",
+      "feeling of enjoyment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "I've been playing a lot of Ping-Pong myself lately.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_149",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "group of girls",
+      "sense of camaraderie",
+      "feeling of belonging"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "So much that five of us girls have formed a club.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_150",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "familiar title",
+      "indoor setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It's called \"The Little Dipper Minus Two.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_151",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "amused tone",
+      "informal setting",
+      "spoken conversation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "A really silly name, but it's based on a mistake.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_152",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of camaraderie",
+      "creative discussion"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "We wanted to give our club a special name; and because there were five of us, we came up with the idea of the  Little Dipper.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_153",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "discovery",
+      "realization",
+      "mistake",
+      "confusion",
+      "academic environment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We thought it consisted of five stars, but we turned out to be wrong.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_154",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "astronomical reference",
+      "numerical mention",
+      "familiar constellation"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "It has seven, like the Big Dipper, which explains the \"Minus Two.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_155",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "big dining room",
+      "Ping-Pong set",
+      "playing",
+      "family environment",
+      "feeling of freedom"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Ilse Wagner has a Ping-Pong set, and the Wagners let us play in their big dining room whenever we want.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_156",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "summer heat",
+      "ice cream",
+      "Ping-Pong games",
+      "social gathering",
+      "feeling of enjoyment"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "Since we five Ping-Pong players like ice cream, especially in the summer, and since you get hot playing Ping-Pong, our games usually end with a visit to the nearest ice-cream parlor that allows Jews: either Oasis or Delphi.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_157",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "busy atmosphere",
+      "generous offers",
+      "abundance of ice cream",
+      "social gathering",
+      "feeling of being admired"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We've long since stopped hunting around for our purses or money -- most of the time it's so busy in Oasis that we manage to find a few generous young men of our acquaintance or an admirer to offer us more ice cream than we could eat in a week.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_158",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "gentle tone",
+      "intimate conversation",
+      "feeling of curiosity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "You're probably a little surprised to hear me talking about admirers at such a tender age.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_159",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of concern",
+      "negative tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Unfortunately, or not, as the case may be, this vice seems to be rampant at our school.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_160",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "outdoor setting",
+      "bicycling",
+      "conversation",
+      "feeling of attention",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "As soon as a boy asks if he can bicycle home with me and we get to talking, nine times out of ten I can be sure he'll become enamored on the spot and won't let me out of his sight for a second.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_161",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "passionate glances",
+      "pedaling",
+      "outdoor environment",
+      "feeling of indifference"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "His ardor eventually cools, especially since I ignore his passionate glances and pedal blithely on my way.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_162",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "biking",
+      "schoolbag falling",
+      "conversation",
+      "social interaction",
+      "feeling of annoyance"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "If it gets so bad that they start rambling on about \"asking Father's permission,\" I swerve slightly on my bike, my schoolbag falls, and the young man feels obliged to get off his bike and hand me the bag, by which time I've switched the conversation to another topic.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_163",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "calm tone",
+      "judgmental language",
+      "neutral environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "These are the most innocent types.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_164",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "unwanted physical contact",
+      "feeling of discomfort",
+      "social awkwardness",
+      "public environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Of course, there are those who blow you kisses or try to take hold of your arm, but they're definitely knocking on the wrong door.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_165",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of anger",
+      "sound of confrontation",
+      "being on a bike",
+      "outdoor environment",
+      "feeling of independence"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I get off my bike and either refuse to make further use of their company or act as if I'm insulted and tell them in no uncertain terms to go on home without me.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_166",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "voice",
+      "presence of another",
+      "sense of relief"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "There you are.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_167",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm conversation",
+      "sense of connection",
+      "feeling of belonging"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We've now laid the basis for our friendship.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_168",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "imminent separation",
+      "brief interaction",
+      "intimate tone"
+    ],
+    "Social Context": "With Someone",
+    "Raw Text": "Until tomorrow.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_169",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "written message",
+      "personal tone",
+      "emotional closure",
+      "intimate setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_170",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of anxiety",
+      "sound of murmurs"
+    ],
+    "Social Context": "With Classmates",
+    "Raw Text": "SUNDAY, JUNE 21, 1942 , Dearest Kitty, Our entire class is quaking in its boots.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_171",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of anxiety",
+      "formal meeting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The reason, of course, is the upcoming meeting in which the teachers decide who'll be promoted to the next grade and who'll be kept back.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_172",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "classroom noise",
+      "feeling of excitement or tension"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Half the class is making bets.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_173",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "laughter",
+      "amused atmosphere",
+      "social gathering",
+      "excitement of a bet"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "G.Z. and I laugh ourselves sick at the two boys behind us, C.N. and Jacques Kocernoot, who have staked their entire vacation savings on their bet.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_174",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "repetitive conversation",
+      "argumentative tone",
+      "feeling of uncertainty",
+      "academic environment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "From morning to night, it's \"You're going to pass, No, I'm not,\" \"Yes, you are,\" \"No, I'm not.\"",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_175",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "angry outbursts",
+      "pleading glances",
+      "chaotic atmosphere",
+      "feeling of frustration"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Even G.'s pleading glances and my angry outbursts can't calm them down.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_176",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of frustration",
+      "sense of criticism"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "If you ask me, there are so many dummies that about a quarter of the class should be kept back, but teachers are the most unpredictable creatures on earth.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_177",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "hope",
+      "uncertainty",
+      "internal monologue"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Maybe this time they'll be unpredictable in the right direction for a change.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_178",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of reassurance",
+      "presence of companions",
+      "emotional calmness"
+    ],
+    "Social Context": "With Companions",
+    "Raw Text": "I'm not so worried about my girlfriends and myself.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_179",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "determined voice",
+      "feeling of reassurance",
+      "sense of resolve"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We'll make it.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_180",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of uncertainty",
+      "academic environment",
+      "thoughts of math"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The only subject I'm not sure about is math.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_181",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of uncertainty",
+      "sense of waiting",
+      "quiet atmosphere"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Anyway, all we can do is wait.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_182",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "emotional support",
+      "reassuring voices",
+      "feeling of hope"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Until then, we keep telling each other not to lose heart.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_183",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "positive atmosphere",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Others (Acquaintances)",
+    "Raw Text": "I get along pretty well with all my teachers.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_184",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "group of people",
+      "male and female voices",
+      "social gathering"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "There are nine of them, seven men and two women.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_185",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of being scolded",
+      "authority figure"
+    ],
+    "Social Context": "With Authority Figure",
+    "Raw Text": "Mr. Keesing, the old fogey who teaches math, was mad at me for the longest time because I talked so much.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_186",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of disappointment",
+      "school environment",
+      "authority figure"
+    ],
+    "Social Context": "With Authority Figure",
+    "Raw Text": "After several warnings, he assigned me extra homework.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_187",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet environment",
+      "academic setting",
+      "feeling of focus"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "An essay on the subject \"A Chatterbox.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_188",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "casual tone",
+      "informal setting",
+      "feeling of curiosity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "A chatterbox, what can you write about that?",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_189",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "inner reflection",
+      "feeling of worry",
+      "quiet moment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I'd wbrry about that later, I decided.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_190",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "scribbling sound",
+      "school environment",
+      "feeling of focus"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I jotted down the assignment in my notebook, tucked it in my bag and tried to keep quiet.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_191",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "evening atmosphere",
+      "homework environment",
+      "written note",
+      "feeling of surprise"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "That evening, after I'd finished the rest of my homework, the note about the essay caught my eye.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_192",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "chewing sound",
+      "pen texture",
+      "taste of ink",
+      "thoughtful atmosphere",
+      "feeling of contemplation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I began thinking about the subject while chewing the tip of my fountain pen.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_193",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "abstract conversation",
+      "thoughtful atmosphere",
+      "feeling of introspection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Anyone could ramble on and leave big spaces between the words, but the trick was to come up with convincing arguments to prove the necessity of talking.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_194",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "thoughtful atmosphere",
+      "moment of insight",
+      "quiet contemplation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I thought and thought, and suddenly I had an idea.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_195",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "writing",
+      "paper feel",
+      "satisfaction"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I wrote the three  pages Mr. Keesing had assigned me and was satisfied.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_196",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "emotional defensiveness",
+      "sense of inherited traits",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I argued that talking is a female trait and that I would do my best to keep it under control, but that I would never be able to break myself of the habit, since my mother talked as much as I did, if not more, and that there's not much you can do about inherited traits.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_197",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "classroom environment",
+      "sound of laughter",
+      "feeling of embarrassment",
+      "academic pressure"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Mr. Keesing had a good laugh at my arguments, but when I proceeded to talk my way through the next class, he assigned me a second essay.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_198",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet environment",
+      "reading material",
+      "formal setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "This time it was supposed to be on \"An Incorrigible Chatterbox.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_199",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "classroom environment",
+      "feeling of accomplishment",
+      "sound of teacher's voice"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I handed it in, and Mr. Keesing had nothing to complain about for two whole classes.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_200",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of frustration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "However, during the third class he'd finally had enough.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_201",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "authority figure",
+      "feeling of embarrassment",
+      "sound of teacher's voice"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Anne Frank, as punishment for talking in class, write an essay entitled 'Quack, Quack, Quack,' said Mistress Chatterback.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_202",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "loud noise",
+      "school environment",
+      "chaotic atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The class roared.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_203",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "amusement",
+      "mental exhaustion",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I had to laugh too, though I'd ) nearly exhausted my ingenuity on the topic of chatterboxes.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_204",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "thoughtful atmosphere",
+      "creative pressure",
+      "mental blockage"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It was time to come up with something else, j something original.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_205",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "friendly conversation",
+      "creative atmosphere",
+      "supportive presence"
+    ],
+    "Social Context": "With Friend",
+    "Raw Text": "My friend Sanne, who's good at poetry, offered to help me write the essay from beginning to end in verse.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_206",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of joy",
+      "physical jump"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "I jumped for joy.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_207",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "playful tone",
+      "sense of mischief",
+      "feeling of annoyance",
+      "office or work environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Keesing was trying to play a joke on me with this ridiculous subject, but I'd make sure the joke was on him.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_208",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of accomplishment",
+      "creative environment",
+      "sense of pride"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I finished my poem, and it was beautiful!",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_209",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "violent scene",
+      "quacking sounds",
+      "family environment",
+      "feeling of horror"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "It was about a mother duck and a father swan with three baby ducklings who were bitten to death by the father because they quacked too much.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.9
+  },
+  {
+    "Event ID": "event_210",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "relief",
+      "positive interaction",
+      "social setting"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Luckily, Keesing took the joke the right way.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_211",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "sound of voice",
+      "classroom setting",
+      "feeling of engagement"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He read the poem to the class, adding his own comments, and to several other classes as well.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_212",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "relief",
+      "school environment",
+      "feeling of normalcy"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Since then I've been allowed to talk and haven't been assigned any extra homework.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_213",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "casual conversation",
+      "humor",
+      "lighthearted atmosphere"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "On the contrary, Keesing's always i making jokes these days.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_214",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "written message",
+      "personal tone",
+      "emotional closure",
+      "intimate setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_215",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "sweltering",
+      "warmth"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "WEDNESDAY, JUNE 24, 1942 , Dearest Kitty, It's sweltering.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_216",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "hot environment",
+      "heavy breathing",
+      "exhaustion",
+      "walking"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Everyone is huffing and puffing, and in this heat I have to walk everywhere.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_217",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "streetcar",
+      "walking",
+      "feeling of exclusion",
+      "urban environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Only now do I realize how pleasant a streetcar is, but we Jews are no longer allowed to make use of this luxury; our own two feet are good enough for us.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_218",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "dentist office",
+      "medical environment",
+      "feeling of apprehension"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Yesterday at lunchtime I had an appointment with the dentist on Jan Luykenstraat.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_219",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "outdoor setting",
+      "distance"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "It's a long way from our school on Stadstimmertuinen.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_220",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "drowsiness",
+      "school environment",
+      "afternoon sunlight"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "That afternoon I nearly fell asleep at my desk.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_221",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "kind gestures",
+      "offer of drink",
+      "social interaction",
+      "feeling of hospitality"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Fortunately, people automatically offer you something to drink.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_222",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "kind voice",
+      "clinical environment",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The dental assistant is really kind.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_223",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "water surroundings",
+      "sound of waves",
+      "feeling of limitation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The only mode of transportation left to us is the ferry.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_224",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "water sounds",
+      "ferry movement",
+      "outdoor environment",
+      "interaction with stranger"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The ferryman at Josef Israelkade took us across when we asked him to.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_225",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "somber tone",
+      "reflective atmosphere",
+      "feeling of resignation",
+      "historical context"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "It's not the fault of the Dutch that we Jews are having such a bad time.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_226",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of reluctance",
+      "feeling of isolation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I wish I didn't have to go to school.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_227",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of loss",
+      "family environment",
+      "Christian setting",
+      "sense of generosity"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My bike was stolen during Easter vacation, and Father gave Mother's bike to some Christian friends for safekeeping.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_228",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "relief",
+      "school environment",
+      "feeling of exhaustion"
+    ],
+    "Social Context": "With Peers",
+    "Raw Text": "Thank goodness summer vacation is almost here; one more week and our torment will be over.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_229",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "morning light",
+      "feeling of surprise"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Something unexpected happened yesterday morning.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_230",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "outdoor setting",
+      "bicycle racks",
+      "hearing name called"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "As I was passing the bicycle racks, I heard my name being called.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_231",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "familiar face",
+      "social gathering",
+      "friendly atmosphere",
+      "previous encounter"
+    ],
+    "Social Context": "With Acquaintances",
+    "Raw Text": "I turned around and there was the nice boy I'd met the evening before at my friend Wilma's.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_232",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "neutral tone",
+      "indoor setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "He's Wilma's second cousin.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_233",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "boring conversation",
+      "feeling of disinterest",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I used to think Wilma was nice, which she is, but all she ever talks about is boys, and that gets to be a bore.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_234",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "shy demeanor",
+      "introduction",
+      "face-to-face interaction",
+      "social setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He came toward me, somewhat shyly, and introduced himself as Hello Silberberg.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_235",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of surprise",
+      "uncertainty",
+      "face-to-face interaction",
+      "indoor environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I was a little surprised and wasn't sure what he wanted, but it didn't take me long to find out.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_236",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of companionship",
+      "sound of conversation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He asked if I would allow him to accompany me to school.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_237",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversation",
+      "companionship",
+      "walking together",
+      "feeling of togetherness"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "As long as you're headed that way, I'll go with you,",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_238",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "walking",
+      "together",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "And so we walked together.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_239",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "friendly tone",
+      "informal setting",
+      "feeling of amusement"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Hello is sixteen and good at telling all kinds of funny stories.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_240",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "familiar presence",
+      "morning light",
+      "feeling of expectation"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "He was waiting for me again this morning, and I expect he will be from now on.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_241",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "single name mention",
+      "quiet atmosphere",
+      "feeling of simplicity"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Anne",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_242",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet room",
+      "writing",
+      "emotional reflection",
+      "personal space"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "WEDNESDAY, JULY 1, 1942 , Dearest Kitty, Until today I honestly couldn't find the time to write you.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_243",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "social gathering",
+      "presence of friends",
+      "company of others",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "I was with friends all day Thursday, we had company on Friday, and that's how it went until today.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_244",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm conversation",
+      "familiar tone",
+      "comfortable setting",
+      "feeling of connection"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "Hello and I have gotten to know each other very well this past week, and he's told me a lot about his life.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_245",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "family environment",
+      "grandparents' presence",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "He comes from Gelsenkirchen and is living with his grandparents.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_246",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of separation",
+      "distance",
+      "longing"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "His parents are in Belgium, but there's no way he can get there.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_247",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "nostalgic tone",
+      "memory of a past relationship",
+      "feeling of longing"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Hello used to have a girlfriend named Ursula.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_248",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "familiar voice",
+      "sense of recognition",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I know her too.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_249",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "neutral tone",
+      "feeling of monotony",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She's perfectly sweet and perfectly boring.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_250",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "intimate setting",
+      "feeling of closeness",
+      "sleepy atmosphere",
+      "warmth of another's presence"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "Ever since he met me, Hello has realized that he's been falling asleep at Ursul's side.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_251",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "upbeat language",
+      "informal setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "So I'm kind of a pep tonic.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_252",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "emotional outburst",
+      "loud voice",
+      "feeling of uncertainty",
+      "confrontational tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "You never know what you're good for!",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_253",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "nighttime",
+      "indoor setting",
+      "feeling of presence"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Jacque spent Saturday night here.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_254",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "boredom",
+      "Sunday atmosphere",
+      "afternoon sunlight",
+      "friend's presence"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Sunday afternoon she was at Hanneli's, and I was bored stiff.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_255",
+    "Temporal Context": {
+      "TimeOfDay": "Evening",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "evening atmosphere",
+      "phone call",
+      "disappointment",
+      "waiting",
+      "indoor setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Hello was supposed to come over that evening, but he called around six.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_256",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "phone ringing",
+      "male voice",
+      "formal tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I answered the phone, and he said, \"This is Helmuth Silberberg.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_257",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "polite tone",
+      "formal language",
+      "requesting presence"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "May I please speak to Anne?",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.4
+  },
+  {
+    "Event ID": "event_258",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "polite greeting",
+      "feeling of calmness"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Oh, Hello.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.2
+  },
+  {
+    "Event ID": "event_259",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "formal introduction",
+      "voice",
+      "personal interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "This is Anne.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_260",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "friendly greeting",
+      "familiar voice",
+      "casual tone"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Oh, hi, Anne.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_261",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "polite conversation",
+      "brief interaction",
+      "neutral tone",
+      "possibly indoor environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "How are you? Fine, thanks.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.2
+  },
+  {
+    "Event ID": "event_262",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "apologetic tone",
+      "regretful voice",
+      "intimate conversation",
+      "feeling of longing"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "I just wanted to say I'm sorry but I can't come tonight, though I would like to have a word with you.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_263",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "brief conversation",
+      "indoor setting",
+      "anticipation",
+      "feeling of expectation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Is it all right if I come by and pick you up in about ten minutes \"Yes, that's fine.\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_264",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cheerful voice",
+      "sense of departure",
+      "feeling of goodbye"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Bye-bye!",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_265",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "spoken words",
+      "promise of arrival",
+      "feeling of reassurance"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Okay, I'll be right over.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_266",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cheerful voice",
+      "sense of departure",
+      "emotional goodbye"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Bye-bye!",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_267",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "quick movements",
+      "changing clothes",
+      "fixing hair"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I hung up, quickly changed my clothes and fixed my hair.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_268",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "nervous feeling",
+      "leaning out window",
+      "waiting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I was so nervous I leaned out the window to watch for him.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_269",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "relief",
+      "anticipation",
+      "presence of another person"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He finally showed up.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_270",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet waiting",
+      "sound of bell ringing",
+      "staircase environment",
+      "feeling of anticipation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Miracle of miracles, I didn't rush down the stairs, but waited quietly until he rang the bell.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_271",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "door opening",
+      "direct conversation",
+      "indoor environment",
+      "feeling of anticipation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I went down to open the door, and he got right to the point.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_272",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "disapproving tone",
+      "family environment",
+      "feeling of being judged",
+      "concerned voice"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Anne, my grandmother thinks you're too young for me to be seeing you on a regular basis.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_273",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversation",
+      "emotional tone of rejection",
+      "feeling of separation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "She says I should be going to the Lowenbachs', but you probably know that I'm not going out with Ursul anymore.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_274",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet tone",
+      "sense of uncertainty",
+      "possibly indoors"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "No, I didn't know.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_275",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "confusion",
+      "uncertainty",
+      "questioning tone"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "What happened?",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_276",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "concerned tone",
+      "inquisitive voice",
+      "social interaction",
+      "emotional tension"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Did you two have a fight?",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_277",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet tone",
+      "negative response",
+      "possibly indoor environment",
+      "feeling of dismissal"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "No, nothing like that.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_278",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emotional conversation",
+      "feeling of separation",
+      "sense of closure",
+      "domestic environment"
+    ],
+    "Social Context": "With Someone I Know",
+    "Raw Text": "I told Ursul that we weren't suited to each other and so it was better for us not to go together anymore, but that she was welcome at my house and I hoped I would be welcome at hers.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_279",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "social interaction",
+      "feeling of distance",
+      "perceived rejection"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Actually, I thought Ursul was hanging around with another boy, and I treated her as if she were.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_280",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "inner reflection",
+      "feeling of doubt",
+      "conflicted emotions"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "But that wasn't true.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_281",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "feeling of resentment",
+      "sound of argument",
+      "emotional tension"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "And then my uncle said I should apologize to her, but of course I didn't feel like it, and that's why I broke up with her.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_282",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "reflective mood",
+      "thoughtful atmosphere",
+      "inner dialogue"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "But that was just one of the reasons.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_283",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "family conflict",
+      "emotional tension",
+      "disagreement",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Now my grandmother wants me to see Ursul and not you, but I don't agree and I'm not going to.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_284",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "internal monologue",
+      "feeling of resistance",
+      "family environment",
+      "sense of independence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Sometimes old people have really old-fashioned ideas, but that doesn't mean I have to go along with them.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_285",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of responsibility",
+      "intergenerational connection",
+      "emotional dependence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I need my grandparents, but in a certain sense they need me too.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_286",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of liberation",
+      "anticipation",
+      "planning"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "From now on I'll be free on Wednesday evenings.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_287",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "wood-carving class environment",
+      "feeling of obligation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "You see, my grandparents made me sign up for a wood-carving class, but actually I go to a club organized by the Zionists.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_288",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "conflict",
+      "emotional tension",
+      "feeling of disagreement"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My grandparents don't want me to go, because they're anti-Zionists.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_289",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm tone",
+      "reflective atmosphere",
+      "personal thoughts"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I'm not a fanatic Zionist, but it interests me.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_290",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of frustration",
+      "sense of overwhelm",
+      "internal conflict"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Anyway, it's been such a mess lately that I'm planning to quit.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_291",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "formal setting",
+      "anticipation",
+      "sense of finality"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "So next Wednesday will be my last meeting.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_292",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm conversation",
+      "planning tone",
+      "feeling of anticipation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "That means I can see you Wednesday evening, Saturday afternoon, Saturday evening, Sunday afternoon and maybe even more.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_293",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "feeling of caution",
+      "sense of obedience"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But if your grandparents don't want you to, you shouldn't go behind their backs.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_294",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "idiotic clich\u00e9",
+      "argumentative tone",
+      "heated conversation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "All's fair in love and war.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_295",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "bookstore environment",
+      "familiar faces",
+      "feeling of happiness",
+      "social interaction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Just then we passed Blankevoort's Bookstore and there was Peter Schiff with two other boys; it was the first time he'd said hello to me in ages, and it really made me feel good.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_296",
+    "Temporal Context": {
+      "TimeOfDay": "Evening",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "evening atmosphere",
+      "family environment",
+      "presence of others"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Monday evening Hello came over to meet Father and Mother.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_297",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cake",
+      "candy",
+      "tea",
+      "cookies",
+      "stiff chairs",
+      "relaxed atmosphere"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I had bought a cake and some candy, and we had tea and cookies, the works, but neither Hello nor I felt like sitting stiffly on our chairs.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_298",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "evening walk",
+      "cool air",
+      "sound of footsteps",
+      "approaching home",
+      "feeling of companionship"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "So we went out for a walk, and he didn't deliver me to my door until ten past eight.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_299",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "angry voice",
+      "tense atmosphere",
+      "feeling of fear"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Father was furious.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_300",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of guilt",
+      "scolding tone",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "He said it was very wrong of me not to get home on time.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_301",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "promise",
+      "time constraint",
+      "family environment",
+      "feeling of obligation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I had to promise to be home by ten to eight in the future.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_302",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "social invitation",
+      "weekend plans",
+      "feeling of obligation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I've been asked to Hello's on Saturday.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_303",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "nighttime conversation",
+      "private home setting",
+      "feeling of curiosity"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Wilma told me that one night when Hello was at her house, she asked him, \"Who do you like best, Ursul or Anne?\"",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_304",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "harsh tone",
+      "confrontational voice",
+      "feeling of rejection"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He said, \"It's none of your business.\"",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_305",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet evening",
+      "awkward conversation",
+      "feeling of secrecy",
+      "indoor setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "But as he was leaving (they hadn't talked to each other the rest of the evening), he said, \"Well, I like Anne better, but don't tell anyone.\"",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_306",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "loud voice",
+      "feeling of separation",
+      "emotional tone of goodbye"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Bye!",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_307",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sudden sound",
+      "intense movement",
+      "abrupt change"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "And whoosh. . .",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_308",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sudden movement",
+      "door sound",
+      "feeling of departure"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "he was out the door",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_309",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm feeling",
+      "flattering attention",
+      "intimate conversation",
+      "feeling of being admired"
+    ],
+    "Social Context": "With Someone Familiar",
+    "Raw Text": "In everything he says or does, I can see that Hello is in love with me, and it's kind of nice for a change.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_310",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "formal conversation",
+      "positive tone",
+      "feeling of approval"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Margot would say that Hello is eminently suitable.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_311",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet conversation",
+      "thoughtful tone",
+      "indoor setting",
+      "feeling of consideration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I think so too, but he's more than that.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_312",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm tone",
+      "praising voice",
+      "family environment",
+      "feeling of pride"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother is also full of praise: \"A good- looking boy.\"",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_313",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "polite tone",
+      "positive voice",
+      "calm atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Nice and polite.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_314",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "social gathering",
+      "feeling of admiration"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I'm glad he's so popular with everyone.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_315",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "female companionship",
+      "feeling of comfort",
+      "social interaction"
+    ],
+    "Social Context": "With Friends",
+    "Raw Text": "Except with my girlfriends.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_316",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "judgmental tone",
+      "disapproving atmosphere",
+      "feeling of criticism"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He thinks they're very childish, and he's right about that.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_317",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emotional conversation",
+      "feeling of embarrassment",
+      "social interaction"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Jacque still teases me about him, but I'm not in love with him.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_318",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "minimal response",
+      "flat tone",
+      "indoor setting",
+      "feeling of indifference"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Not really.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.2
+  },
+  {
+    "Event ID": "event_319",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm tone",
+      "sense of acceptance",
+      "feeling of reassurance"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "It's all right for me to have boys as friends.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_320",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emptiness",
+      "silence",
+      "feeling of indifference"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Nobody minds.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_321",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "feeling of secrecy",
+      "emotional tension",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother is always asking me who I'm going to marry when I grow up, but I bet she'll never guess it's Peter, because I talked her out of that idea myself, without batting an eyelash.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_322",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "romantic thoughts",
+      "emotional vulnerability",
+      "internal monologue",
+      "feelings of love",
+      "social uncertainty"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I love Peter as I've never loved anyone, and I tell myself he's only going around with all those other girls to hide his feelings for me.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_323",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "awkward silence",
+      "uncomfortable atmosphere",
+      "feeling of confusion"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Maybe he thinks Hello and I are in love with each other, which we're not.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_324",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "emotional conversation",
+      "feeling of scrutiny"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "He's just a friend, or as Mother puts it, a beau.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_325",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "written message",
+      "personal tone",
+      "emotional closure"
+    ],
+    "Social Context": "With Someone (implied intimacy)",
+    "Raw Text": "Yours, Anne",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_326",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "formal ceremony",
+      "theater environment",
+      "sense of occasion"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "SUNDAY, JULY 5, 1942 , Dear Kitty,  The graduation ceremony in the Jewish Theater on Friday went as expected.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_327",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of relief"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "My report card wasn't too bad.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_328",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "academic setting",
+      "feeling of disappointment",
+      "sound of grades being read"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I got one D, a C- in algebra and all the rest B's, except for two B+'s and two B-'s.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_329",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "feeling of relief",
+      "academic setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My parents are pleased, but they're not like other parents when it comes to grades.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_330",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of relief",
+      "school environment",
+      "lack of anxiety"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "They never worry about report cards, good or bad.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_331",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of constraint",
+      "emotional repression",
+      "family environment",
+      "sense of caution"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "As long as I'm healthy and happy and don't talk back too much, they're satisfied.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_332",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm atmosphere",
+      "reflective mood",
+      "optimistic tone"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "If these three things are all right, everything else will take care of itself.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_333",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet tone",
+      "reflective mood",
+      "indoor setting",
+      "feeling of contrast"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I'm just the opposite.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_334",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of anxiety",
+      "school environment",
+      "pressure to perform"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I don't want to be a poor student.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_335",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "formal environment",
+      "feeling of anticipation",
+      "sense of relief"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I was accepted to the Jewish Lyceum on a conditional basis.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_336",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of uncertainty",
+      "sense of relief"
+    ],
+    "Social Context": "With Others (classmates/friends)",
+    "Raw Text": "I was supposed to stay in the seventh grade at the Montessori School, but when Jewish children were required to go to Jewish schools, Mr. Elte finally agreed, after a great deal of persuasion, to accept Lies Goslar and me.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_337",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "academic environment",
+      "feeling of disappointment",
+      "pressure to succeed"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Lies also passed this year, though she has to repeat her geometry exam.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_338",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "somber tone",
+      "feeling of pity",
+      "emotional weight"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Poor Lies.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_339",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "noisy room",
+      "playful atmosphere",
+      "family environment",
+      "feeling of distraction"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "It isn't easy for her to study at home; her baby sister, a spoiled little two-year-old, plays in her room all day.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_340",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "screaming",
+      "tense atmosphere",
+      "feeling of anxiety",
+      "family environment",
+      "sense of conflict"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "If Gabi doesn't get her way, she starts screaming, and if Lies doesn't look after her, Mrs. Goslar starts screaming.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_341",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of frustration",
+      "academic environment",
+      "sense of struggle"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "So Lies has a hard time doing her homework, and as long as that's the case, the tutoring she's been getting won't help much.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_342",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "visual observation",
+      "domestic setting",
+      "curiosity"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The Goslar household is really a sight.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_343",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "family environment",
+      "mealtime",
+      "warm atmosphere",
+      "presence of relatives"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mrs. Goslar's parents live next door, but eat with the family.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_344",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "domestic environment",
+      "family tension",
+      "feeling of anxiety",
+      "sound of nervous behavior"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The there's a hired girl, the baby, the always absentminded and absent Mr. Goslar and the always nervous and irrita Ie Mrs. Goslar, who's expecting another baby.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_345",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "chaotic atmosphere",
+      "feeling of confusion",
+      "sense of disorientation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Lies, who's all thumbs, gets lost in the mayhem.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_346",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "feeling of curiosity",
+      "sound of conversation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "My sister Margot has also gotten her report card.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_347",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "positive tone",
+      "complimentary language",
+      "feeling of appreciation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Brilliant, as usual.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_348",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "academic environment",
+      "feeling of pride",
+      "formal tone"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "If we had such a thing as \"cum laude,\" she would have passed with honors, she's so smart.",
+    "Assigned Emotion": "Joy",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_349",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "domestic environment",
+      "father's presence",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Father has been home a lot lately.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_350",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "empty office",
+      "feeling of uselessness",
+      "silence",
+      "office environment",
+      "feeling of isolation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "There's nothing for him to do at the office; it must be awful to feel you're not needed.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_351",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "office environment",
+      "formal setting",
+      "business discussions"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Mr. Kleiman has taken over Opekta, and Mr. Kugler, Gies & Co., the company dealing in spices and spice substitutes that was set up in 1941.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_352",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "leisurely stroll",
+      "neighborhood square",
+      "father's voice",
+      "feeling of unease"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "A few days ago, as we were taking a stroll around our neighborhood square, Father began to talk about going into hiding.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_353",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "sense of disconnection",
+      "concerned tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He said it would be very hard for us to live cut off from the rest of the world.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_354",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversational tone",
+      "inquisitive atmosphere",
+      "feeling of curiosity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I asked him why he was bringing this up now.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_355",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "conversation",
+      "charitable discussion",
+      "domestic environment",
+      "feeling of kindness"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Well, Anne, he replied, you know that for more than a year we've been bringing clothes, food and furniture to other people.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_356",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "sense of loss",
+      "threat of invasion"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "We don't want our belongings to be seized by the Germans.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_357",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "sense of danger",
+      "threatening atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Nor do we want to fall into their clutches ourselves.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_358",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sense of defiance",
+      "feeling of uncertainty",
+      "threat of force"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "So we'll leave of our own accord and not wait to be hauled away.",
+    "Assigned Emotion": "Anger",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_359",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "sound of questioning voice",
+      "feeling of anticipation",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But when, Father?",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_360",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "serious tone",
+      "feeling of fear",
+      "emotional intensity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "He sounded so serious that I felt scared.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_361",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "reassuring voice",
+      "calming tone",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Don't you worry.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_362",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "reassuring voice",
+      "feeling of relief",
+      "sense of trust"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We'll take care of everything.",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_363",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm tone",
+      "reflective atmosphere",
+      "feeling of nostalgia"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "just enjoy your carefree life while you can.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_364",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "silence",
+      "stillness",
+      "emptiness",
+      "feeling of finality"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "That was it.",
+    "Assigned Emotion": "Sadness",
+    "Emotion Intensity": 0.8
+  },
+  {
+    "Event ID": "event_365",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "somber tone",
+      "feeling of apprehension",
+      "contemplative atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Oh, may these somber words not come true for as long as possible.",
+    "Assigned Emotion": "Fear",
+    "Emotion Intensity": 0.7
+  },
+  {
+    "Event ID": "event_366",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "doorbell ringing",
+      "presence of someone",
+      "interrupting activity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The doorbell's ringing, Hello's here, time to stop.",
+    "Assigned Emotion": "Curiosity",
+    "Emotion Intensity": 0.6
+  },
+  {
+    "Event ID": "event_367",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet moment",
+      "personal reflection",
+      "emotional intimacy",
+      "written communication"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Assigned Emotion": "Love/Attachment",
+    "Emotion Intensity": 0.8
+  }
+]

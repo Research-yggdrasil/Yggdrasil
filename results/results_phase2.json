@@ -1,0 +1,4222 @@
+[
+  {
+    "Event ID": "event_368",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet reflection",
+      "feeling of longing",
+      "writing in a diary"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "WEDNESDAY, JULY 8, 1942 ,  Dearest Kitty, It seems like years since Sunday morning.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_369",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of chaos",
+      "sense of disorientation",
+      "emotional turmoil"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "So much has happened it's as if the whole world had suddenly turned upside down.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.34,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.46,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_370",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "family conversation",
+      "relief",
+      "fatherly reassurance",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But as you can see, Kitty, I'm still alive, and that's the main thing, Father says.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.66,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.14,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_371",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of uncertainty",
+      "sense of vulnerability",
+      "emotional distress"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I'm alive all right, but don't ask where or how.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.48,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_372",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "Sunday afternoon",
+      "formal setting",
+      "feeling of confusion"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "You probably don't understand a word I'm saying today, so I'll begin by telling you what happened Sunday afternoon.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.36,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_373",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "doorbell ringing",
+      "waiting for someone",
+      "home environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At three o'clock (Hello had left but was supposed to come back later), the doorbell rang.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_374",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm sun",
+      "balcony environment",
+      "quiet",
+      "reading"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I didn't hear it, since I was out on the balcony, lazily reading in the sun.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.39,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.41,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_375",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "agitated expression",
+      "kitchen environment",
+      "sudden appearance"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "A little while later Margot appeared in the kitchen doorway looking very agitated.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.34,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.46,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_376",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "whispered voice",
+      "feeling of fear",
+      "sense of secrecy"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Father has received a call-up notice from the SS, she whispered.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_377",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "empty room",
+      "feeling of absence",
+      "domestic environment",
+      "family concern"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother has gone to see Mr. van Daan",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.46,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.34,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_378",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of shock",
+      "stunned silence",
+      "internal turmoil"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I was stunned.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.48,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_379",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "ominous tone",
+      "sense of foreboding",
+      "official announcement"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "A call-up: everyone knows what that means.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_380",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "dark visions",
+      "feeling of isolation",
+      "sense of confinement",
+      "emotional distress"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Visions of concentration camps and lonely cells raced through my head.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.48,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_381",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of guilt",
+      "emotional turmoil",
+      "sense of loss",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "How could we let Father go to such a fate?",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_382",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "living room",
+      "waiting",
+      "family environment",
+      "feeling of anticipation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Of course he's not going, declared Margot as we waited for Mother in the living room.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.47,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.13,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_383",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "anxious waiting",
+      "indoor setting",
+      "whispers",
+      "feeling of uncertainty"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother's gone to Mr. van Daan to ask whether we can move to our hiding place tomorrow.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_384",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family presence",
+      "sense of togetherness",
+      "feeling of unity"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The van Daans are going with us.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_385",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "group setting",
+      "multiple people",
+      "feeling of togetherness"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "There will be seven of us altogether.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_386",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "stillness",
+      "quiet",
+      "emptiness"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Silence.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_387",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "silence",
+      "feeling of isolation",
+      "emotional restraint"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We couldn't speak.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_388",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "heat",
+      "silence",
+      "long wait",
+      "feeling of suspense"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The thought of Father off visiting someone in the Jewish Hospital and completely unaware of what was happening, the long wait for Mother, the heat, the suspense -- all this reduced us to silence.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_389",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "doorbell ringing",
+      "sudden sound",
+      "home environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Suddenly the doorbell rang again.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_390",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "spoken words",
+      "personal interaction",
+      "intimate setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "That's Hello, I said.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_391",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "loud voice",
+      "sense of warning",
+      "feeling of fear"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Don't open the door!!!",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.9,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_392",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "urgent voice",
+      "commanding tone",
+      "feeling of being stopped"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "exclaimed Margot to stop me.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.34,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.46,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_393",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "muffled voices",
+      "door shutting",
+      "indoor setting",
+      "presence of others"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But it wasn't necessary, since we heard Mother and Mr. van Daan downstairs talking to Hello, and then the two of them came inside and shut the door behind them.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.12,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_394",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "bell ringing",
+      "tiptoeing",
+      "downstairs movement",
+      "family environment",
+      "feeling of caution"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Every time the bell rang, either Margot or I had to tiptoe downstairs to see if it was Father, and we didn't let anyone else in.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.7,
+    "Error": 0.21,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_395",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "being sent away",
+      "private conversation",
+      "family environment",
+      "feeling of exclusion"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Margot and I were sent from the room, as Mr. van Daan wanted to talk to Mother alone.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.31,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_396",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "intimate setting",
+      "quiet conversation",
+      "feeling of surprise",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "When she and I were sitting in our bedroom, Margot told me that the call-up was not for Father, but for her.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_397",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "tearful",
+      "emotional distress",
+      "intense feeling of sadness"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At this second shock, I began to cry.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.9,
+    "Error": 0.58,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_398",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of uncertainty",
+      "concern for the future",
+      "sense of isolation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Margot is sixteen -- apparently they want to send girls her age away on their own.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_399",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "relief",
+      "family conversation",
+      "sense of safety",
+      "indoor environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But thank goodness she won't be going; Mother had said so herself, which must be what Father had meant when he talked to me about our going into hiding.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.67,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.13,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_400",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "concealment",
+      "stillness",
+      "holding breath"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Hiding. . .",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.9,
+    "Error": 0.58,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_401",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sense of uncertainty",
+      "feeling of vulnerability",
+      "need for concealment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "where would we hide?",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_402",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "urban environment",
+      "questioning tone",
+      "feeling of uncertainty"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "In the city?",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_403",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "rural environment",
+      "quiet atmosphere",
+      "feeling of curiosity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "In the country?",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_404",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "indoor environment",
+      "uncertainty",
+      "questioning tone"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "In a house?",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.01,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_405",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "small enclosed space",
+      "poor lighting",
+      "feeling of confinement"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "In a shack?",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.01,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_406",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "confusion",
+      "uncertainty",
+      "inner dialogue"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "When, where, how. . . ?",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.01,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_407",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "inner turmoil",
+      "mental questioning",
+      "feeling of restriction",
+      "emotional unease"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "These were questions I wasn't allowed to ask, but they still kept running through my mind.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.01,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_408",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "school environment",
+      "feeling of urgency",
+      "physical activity of packing"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Margot and I started packing our most important belongings into a schoolbag.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_409",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "personal belongings",
+      "school environment",
+      "feeling of nostalgia"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The first thing I stuck in was this diary, and then curlers, handkerchiefs, schoolbooks, a comb and some old letters.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_410",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "preoccupied thoughts",
+      "packing sounds",
+      "feeling of anxiety",
+      "personal belongings"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Preoccupied by the thought of going into hiding, I stuck the craziest things in the bag, but I'm not sorry.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.56,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_411",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "introspective mood",
+      "nostalgic feeling",
+      "quiet contemplation"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Memories mean more to me than dresses.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_412",
+    "Temporal Context": {
+      "TimeOfDay": "Evening",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "relief",
+      "evening atmosphere",
+      "phone call",
+      "anticipation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Father finally came home around five o'clock, and we called Mr. Kleiman to ask if he could come by that evening.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.63,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.17,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_413",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "departure",
+      "empty space",
+      "anticipation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Mr. van Daan left and went to get Miep.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.54,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.06,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_414",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "arrival",
+      "promise",
+      "bag of clothes",
+      "nighttime visit",
+      "feeling of hope"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Miep arrived and promised to return later that night, taking with her a bag full of shoes, dresses, jackets, underwear and stockings.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.53,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.27,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_415",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "empty stomach",
+      "stillness",
+      "home environment",
+      "feeling of lethargy"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "After that it was quiet in our apartment; none of us felt like eating.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.69,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_416",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "hot",
+      "strange environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It was still hot, and everything was very strange.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.7,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_417",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "evening atmosphere",
+      "polite conversation",
+      "hinting at departure",
+      "presence of a guest"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We had rented our big upstairs room to a Mr. Goldschmidt, a divorced man in his thirties, who apparently had nothing to do that evening, since despite all our polite hints he hung around until ten o'clock.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.25,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.6,
+    "Error": 0.35,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_418",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "arrival of visitors",
+      "sound of doorbell or knock",
+      "morning atmosphere"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Miep and Jan Gies came at eleven.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.36,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_419",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm conversation",
+      "familiar presence",
+      "sense of comfort",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Miep, who's worked for Father's company since 1933, has become a close friend, and so has her husband Jan.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.7,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_420",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "quick movements",
+      "rustling sounds",
+      "hidden items",
+      "cluttered environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Once again, shoes, stockings, books and underwear disappeared into Miep's bag and Jan's deep pockets.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.5,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_421",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "disappearance",
+      "late morning",
+      "emptiness"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "At eleven-thirty they too disappeared.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.27,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.53,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_422",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "exhaustion",
+      "own bed",
+      "darkness",
+      "Mother's voice"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I was exhausted, and even though I knew it'd be my last night in my own bed, I fell asleep right away and didn't wake up until Mother called me at five-thirty the next morning.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_423",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm rain",
+      "mild temperature"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "Fortunately, it wasn't as hot as Sunday; a warm rain fell throughout the day.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.64,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.04,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_424",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cold environment",
+      "multiple layers of clothes",
+      "feeling of preparation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "The four of us were wrapped in so many layers of clothes it looked as if we were going off to spend the night in a refrigerator, and all that just so we could take more clothes with us.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.54,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.06,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_425",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "suitcase full of clothes",
+      "confined space",
+      "sense of danger"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "No Jew in our situation would dare leave the house with a suitcase full of clothes.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.9,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_426",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "multiple layers of clothing",
+      "heavy shoes",
+      "constricted feeling",
+      "overdressed"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I was wearing two undershirts, three pairs of underpants, a dress, and over that a skirt, a jacket, a raincoat, two pairs of stockings, heavy shoes, a cap, a scarf and lots more.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.81,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.01,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_427",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of suffocation",
+      "emotional neglect",
+      "home environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I was suffocating even before we left the house, but no one bothered to ask me how I felt.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_428",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "school environment",
+      "bicycle",
+      "open space",
+      "feeling of uncertainty"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Margot stuffed her schoolbag with schoolbooks, went to get her bicycle and, with Miep leading the way, rode off into the great unknown.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.56,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_429",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "uncertainty",
+      "confusion",
+      "feeling of unknown environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "At any rate, that's how I thought of it, since I still didn't know where our hiding place was.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.7,
+    "Error": 0.4,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_430",
+    "Temporal Context": {
+      "TimeOfDay": "Evening",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "door closing",
+      "presence of a cat",
+      "quiet evening",
+      "home environment",
+      "feeling of departure"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At seven-thirty we too closed the door behind us; Moortje, my cat, was the only living creature I said good-bye to.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.56,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.24,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_431",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "written note",
+      "quiet environment",
+      "feeling of responsibility"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "According to a note we left for Mr. Goldschmidt, she was to be taken to the neighbors, who would give her a good home.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_432",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "abandoned room",
+      "untidy kitchen",
+      "food leftovers",
+      "empty beds",
+      "feeling of sudden departure"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The stripped beds, the breakfast things on the table, the pound of meat for the cat in the kitchen -- all of these created the impression that we'd left in a hurry.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.26,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.54,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_433",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "disinterest",
+      "indoor setting",
+      "conversation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "But we weren't interested in impressions.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.54,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.4,
+    "Error": 0.14,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_434",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of danger",
+      "desire for safety",
+      "sense of urgency"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We just wanted to get out of there, to get away and reach our destination in safety.",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_435",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emptiness",
+      "stillness",
+      "feeling of detachment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Nothing else mattered.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_436",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "brief message",
+      "promise of continuation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "More tomorrow.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_437",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet moment",
+      "personal reflection",
+      "emotional intimacy",
+      "written communication"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_438",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "pouring rain",
+      "varied assortment of items",
+      "schoolbags",
+      "shopping bags",
+      "family presence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "THURSDAY, JULY 9, 1942 , Dearest Kitty, So there we were, Father, Mother and I, walking in the pouring rain, each of us with a schoolbag and a shopping bag filled to the brim with the most varied assortment of items.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.28,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.52,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_439",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "early morning",
+      "sympathetic looks",
+      "conspicuous yellow star",
+      "city environment",
+      "feeling of pity"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The people on their way to work at that early hour gave us sympathetic looks; you could tell by their faces that they were sorry they couldn't offer us some kind of transportation; the conspicuous yellow star spoke for itself.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.46,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_440",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "street environment",
+      "walking",
+      "family presence",
+      "anticipatory feeling"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Only when we were walking down the street did Father and Mother reveal, little by little, what the plan was.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.48,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_441",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "moving furniture",
+      "emptying apartment",
+      "physical labor",
+      "sense of transition"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "For months we'd been moving as much of our furniture and apparel out of the apartment as we could.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_442",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "low-key conversation",
+      "sense of secrecy",
+      "feeling of apprehension"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "It was agreed that we'd go into hiding on July 16.",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_443",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sense of urgency",
+      "disorderly rooms",
+      "feeling of rush"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Because of Margot's call-up notice, the plan had to be moved up ten days, which meant we'd have to make do with less orderly rooms.",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.7,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_444",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "office environment",
+      "indoor space",
+      "familiar setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The hiding place was located in Father's office building.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.47,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.13,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_445",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "spoken explanation",
+      "feeling of introspection",
+      "calm tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "That's a little hard for outsiders to understand, so I'll explain.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.52,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.08,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_446",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "office environment",
+      "small group of people",
+      "low noise level",
+      "feeling of secrecy"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Father didn't have a lot of people working in his office, just Mr. Kugler, Mr. Kleiman, Miep and a twenty-three-year-old typist named Bep Voskuijl, all of whom were informed of our coming.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_447",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "warehouse environment",
+      "low-level conversations",
+      "feeling of secrecy"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Mr. Voskuijl, Bep's father, works in the warehouse, along with two assistants, none of whom were told anything.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.36,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_448",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "indoor environment",
+      "visual focus on architecture"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Here's a description of the building.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_449",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "large warehouse",
+      "divided sections",
+      "smell of cinnamon",
+      "smell of cloves",
+      "sound of grinding"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The large warehouse on the ground floor is used as a workroom and storeroom and is divided into several different sections, such as the stockroom and the milling room, where cinnamon, cloves and a pepper substitute are ground.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_450",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "warehouse doors",
+      "outside door",
+      "separate entrance",
+      "office environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Next to the warehouse doors is another outside' door, a separate entrance to the office.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.4,
+    "Error": 0.4,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_451",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "office environment",
+      "door",
+      "stairway"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Just inside the office door is a second door, and beyond that a stairway.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_452",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "frosted window",
+      "black letters",
+      "stairs",
+      "door"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At the top of the stairs is another door, with a frosted window on which the word \"Office\" is written in black letters.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_453",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "large room",
+      "bright light",
+      "crowded space"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "This is the big front office -- very large, very light and very full.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.56,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_454",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "office environment",
+      "daylight",
+      "colleagues present",
+      "typical work sounds"
+    ],
+    "Social Context": "With Colleagues",
+    "Raw Text": "Bep, Miep and Mr. Kleiman work there during the day.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.66,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.06,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_455",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "dark room",
+      "stuffy air",
+      "small space",
+      "office environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "After passing through an alcove containing a safe, a wardrobe and a big supply cupboard, you come to the small, dark, stuffy back office.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_456",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "small space",
+      "empty room",
+      "feeling of solitude"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "This used to be shared by Mr. Kugler and Mr. van Daan, but now Mr. Kugler is its only occupant.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_457",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "glass door",
+      "hallway",
+      "office environment",
+      "sense of restriction"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Mr. Kugler's office can also be reached from the hallway, but only through a glass door that can be opened from the inside but not easily from the outside.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_458",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "long hallway",
+      "narrow corridor",
+      "coal bin",
+      "steps",
+      "private office",
+      "formal environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "If you leave Mr. Kugler's office and proceed through the long, narrow hallway past the coal bin and go up four steps, you find yourself in the private office, the showpiece of the entire building.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_459",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "elegant furniture",
+      "linoleum floor",
+      "throw rugs",
+      "sound of radio",
+      "fancy lamp",
+      "luxurious atmosphere"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "Elegant mahogany furniture, a linoleum floor covered with throw rugs, a radio, a fancy lamp, everything first class.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.36,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.44,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_460",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "spacious room",
+      "hot water",
+      "gas burners",
+      "bathroom environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Next door is a spacious kitchen with a hot-water heater and two gas burners, and beside that a bathroom.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_461",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "indoor environment",
+      "elevator or staircase presence",
+      "neutral temperature",
+      "low to moderate noise"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "That's the second floor.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.2,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_462",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "wooden staircase",
+      "downstairs hallway",
+      "indoor environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "A wooden staircase leads from the downstairs hallway to the third floor.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.4,
+    "Error": 0.02,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_463",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "stairs",
+      "landing",
+      "doors on either side",
+      "indoor environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "At the top of the stairs is a landing, with doors on either side.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_464",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "old house",
+      "narrow stairs",
+      "musty smell",
+      "storage area",
+      "loft"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The door on the left takes you up to the spice storage area, attic and loft in the front part of the house.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_465",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "steep stairs",
+      "narrow space",
+      "old house",
+      "street environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "A typically Dutch, very steep, ankle-twisting flight of stairs also runs from the front part of the house to another door opening onto the street.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_466",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "old house",
+      "narrow landing",
+      "door to the right",
+      "secretive atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The door to the right of the landing leads to the \"Secret Annex\" at the back of the house.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_467",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "plain gray door",
+      "hidden rooms",
+      "feeling of secrecy"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "No one would ever suspect there were so many rooms behind that plain gray door.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_468",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "small step",
+      "door",
+      "inside environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "There's just one small step in front of the door, and then you're inside.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_469",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "steep stairs",
+      "visual obstacle",
+      "physical challenge"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Straight ahead of you is a steep flight of stairs.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.7,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_470",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "narrow hallway",
+      "living room",
+      "indoor environment",
+      "sense of confinement"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "To the left is a narrow hallway opening onto a room that serves as the Frank family's living",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_471",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "indoor setting",
+      "familiar environment",
+      "quiet atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "[INSERT MAP HERE] room and bedroom.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.22,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_472",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "small room",
+      "family environment",
+      "presence of young ladies"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Next door is a smaller room, the bedroom and study of the two young ladies of the family.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.6,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_473",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "windowless",
+      "washroom",
+      "confined space",
+      "fluorescent lighting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "to the right of the stairs is a windowless washroom",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_474",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "minimal visual cues",
+      "digital environment",
+      "feeling of connection"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "with a link.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_475",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "door",
+      "corner",
+      "toilet",
+      "personal room",
+      "familiar environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "The door in the corner leads to the toilet and another one to Margot's and my room.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.6,
+    "Error": 0.12,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_476",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "large room",
+      "light",
+      "spacious",
+      "old canalside house",
+      "surprise"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "If you go up the stairs and open the door at the top, you're surprised to see such a large, light and spacious room in an old canalside house like this.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.43,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.37,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_477",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "stove",
+      "sink",
+      "laboratory environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It contains a stove (thanks to the fact hat it used to be Mr. Kugler's laboratory) and a sink.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_478",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cozy living space",
+      "familiar voices",
+      "warm lighting",
+      "family environment",
+      "feeling of togetherness"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "This will be the kitchen and bedroom of Mr. and Mrs. van Daan, as well as the general living room, dining room and study for us all.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_479",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "small enclosed space",
+      "private bedroom",
+      "quiet atmosphere"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "A tiny side room is to be Peter van Daan's bedroom.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_480",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "indoor setting",
+      "old building",
+      "attic",
+      "loft"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Then, just as in the front part of the building, there's an attic and a loft.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_481",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "plain tone",
+      "direct gaze",
+      "sense of confrontation",
+      "indoor setting"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "So there you are.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.7,
+    "Error": 0.4,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_482",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "friendly tone",
+      "tour environment",
+      "sense of completion",
+      "feeling of hospitality"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Now I've introduced you to the whole of our lovely Annex!",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.52,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.28,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_483",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet moment",
+      "personal reflection",
+      "feeling of intimacy"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_484",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet room",
+      "writing",
+      "emotional reflection",
+      "feeling of intimacy"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "FRIDAY, JULY 10, 1942 , Dearest Kitty, I've probably bored you with my long description of our house, but I still think you should know where I've ended up; how I ended up here is  something you'll figure out from my next letters.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_485",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "spoken narrative",
+      "personal reflection",
+      "storytelling environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "But first, let me continue my story, because, as you know, I wasn't finished.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_486",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "long hallway",
+      "wooden staircase",
+      "next floor",
+      "the Annex",
+      "feeling of transition"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "After we arrived at 263 Prinsengracht, Miep quickly led us through the long hallway and up the wooden staircase to the next floor and into the Annex.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.7,
+    "Error": 0.4,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_487",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "door shutting",
+      "feeling of isolation",
+      "alone"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "She shut the door behind us, leaving us alone.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_488",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "waiting",
+      "outdoor environment",
+      "presence of a bike"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Margot had arrived much earlier on her bike and was waiting for us.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.12,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_489",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cluttered space",
+      "overwhelming environment",
+      "feeling of chaos"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Our living room and all the other rooms were so full of stuff that I can't find the words to describe it.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_490",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cluttered space",
+      "cardboard boxes",
+      "office environment",
+      "feeling of disorganization"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "All the cardboard boxes that had been sent to the office in the last few months were piled on the floors and beds.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_491",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "small room",
+      "filled with linens",
+      "cluttered space",
+      "feeling of confinement"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The small room was filled from floor to cethng with linens.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_492",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "messy environment",
+      "feeling of urgency",
+      "properly made beds"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "If we wanted to sleep in properly made beds that night, we had to get going and straighten up the mess.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.7,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_493",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "paralysis",
+      "fear",
+      "helplessness",
+      "family presence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother and Margot were unable to move a muscle.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.9,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_494",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "bare mattresses",
+      "tired",
+      "miserable",
+      "cold or hard surface",
+      "sparse environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "They lay down on their bare mattresses, tired, miserable and I don't know what else.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_495",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "family environment",
+      "sense of responsibility",
+      "domestic chores",
+      "feeling of cooperation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But Father and I, the two cleaner-uppers in the family, started in right away.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.5,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_496",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "physical exhaustion",
+      "clean beds",
+      "hammering nails",
+      "filled cupboards",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "All day long we unpacked boxes, filled cupboards, hammered nails and straightened up the mess, until we fell exhausted into our clean beds at night.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.48,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_497",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "tiredness",
+      "emptiness",
+      "family presence",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "We hadn't eaten a hot meal all day, but we didn't care; Mother and Margot were too tired and keyed up to eat, and Father and I were too busy.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.5,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_498",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "morning light",
+      "familiar setting",
+      "sense of continuity"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Tuesday morning we started where we left off the night before.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.27,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.33,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_499",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "busy atmosphere",
+      "scrubbing sounds",
+      "sunlight",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Bep and Miep went grocery shopping with our ration coupons, Father worked on our blackout screens, we scrubbed the kitchen floor, and were once again busy from sunup to sundown.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.6,
+    "Error": 0.28,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_500",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "reflective mood",
+      "feeling of change",
+      "inner turmoil"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Until Wednesday, I didn't have a chance to think about the enormous change in my life.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_501",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet reflection",
+      "feeling of realization",
+      "confined space",
+      "sense of uncertainty"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Then for the first time since our arrival in the Secret Annex, I found a moment to tell you all about it and to realize what had happened to me and what was yet to happen.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.51,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.29,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_502",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet moment",
+      "personal reflection",
+      "feeling of intimacy"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Yours, Anne",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_503",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "chiming clock",
+      "quarterly time announcements",
+      "family presence",
+      "home environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "SATURDAY, JULY 11, 1942 , Dearest Kitty, Father, Mother and Margot still can't get used to the chiming of the Westertoren clock, which tells us the time every quarter of an hour.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_504",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "reassuring sound",
+      "nighttime"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Not me, I liked it from the start; it sounds so reassuring, especially at night.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.74,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.06,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_505",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of secrecy",
+      "sense of confinement",
+      "low-key conversation",
+      "intimate setting",
+      "feeling of vulnerability"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "You no doubt want to hear what I think of being in hiding.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_506",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "uncertainty",
+      "confusion",
+      "neutral tone",
+      "indoor setting"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Well, all I can say is that I don't really know yet.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_507",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of unease",
+      "sense of disconnection",
+      "unfamiliar environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I don't think I'll ever feel at home in this house, but that doesn't mean I hate it.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_508",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "relaxed atmosphere",
+      "unfamiliar surroundings",
+      "leisure environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "It's more like being on vacation in some strange pension.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.52,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.08,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_509",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "reflective mood",
+      "hidden environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Kind of an odd way to look at life in hiding, but that's how things are.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_510",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "hidden location",
+      "secure environment",
+      "feeling of safety"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The Annex is an ideal place to hide in.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_511",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "damp",
+      "lopsided",
+      "cozy hiding place",
+      "Amsterdam environment",
+      "feeling of comfort"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It may be damp and lopsided, but there's probably not a more comfortable hiding place in all of Amsterdam.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_512",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "neutral tone",
+      "geographical reference",
+      "feeling of expansiveness"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "No, in all of Holland.",
+    "Predicted Emotion": "Curiosity",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_513",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "blank walls",
+      "bare room",
+      "private environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Up to now our bedroom, with its blank walls, was very bare.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.4,
+    "Error": 0.31,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_514",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "colorful pictures",
+      "glue smell",
+      "brush strokes",
+      "family environment",
+      "feeling of nostalgia"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Thanks to Father -- who brought my entire postcard and movie-star collection here beforehand -- and to a brush and a pot of glue, I was able to plaster the walls with pictures.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_515",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cheerful atmosphere",
+      "positive visual cues"
+    ],
+    "Social Context": "Unknown",
+    "Raw Text": "It looks much more cheerful.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.4,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.4,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_516",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "wood piled in the attic",
+      "anticipation of building",
+      "sense of community"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "When the van Daans arrive, we'll be able to build cupboards and other odds and ends out of the wood piled in the attic.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_517",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "calm atmosphere",
+      "relief",
+      "family presence"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Margot and Mother have recovered somewhat.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_518",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "warm soup smell",
+      "home environment",
+      "concern for mother's health",
+      "feeling of relief"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Yesterday Mother felt well enough to cook split-pea soup for the first time, but then she was downstairs talking and forgot all about it.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.5,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_519",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "scorched smell",
+      "black beans",
+      "metallic pan",
+      "scraping sound",
+      "frustration"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "The beans were scorched black, and no amount of scraping could get them out of the pan.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_520",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "private office",
+      "radio sound",
+      "nighttime",
+      "group of four"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Last night the four of us went down to the private office and listened to England on the radio.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.45,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.35,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_521",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of fear",
+      "sound of potential eavesdropping",
+      "family environment",
+      "feeling of vulnerability"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I was so scared someone might hear it that I literally begged Father to take me back upstairs.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_522",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "supportive presence",
+      "feeling of comfort",
+      "emotional reassurance"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother understood my anxiety and went with me.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_523",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "fear of being heard",
+      "fear of being seen",
+      "presence of neighbors"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Whatever we do, we're very afraid the neighbors might hear or see us.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.46,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.34,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_524",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "sewing sounds",
+      "fabric texture",
+      "domestic environment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We started off immediately the first day sewing curtains.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.25,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.6,
+    "Error": 0.35,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_525",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "scraps of fabric",
+      "varied textures",
+      "stitching sounds",
+      "domestic environment",
+      "feeling of DIY"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Actually, you can hardly call them that, since they're nothing but scraps of fabric, varying greatly in shape, quality and pattern, which Father and I stitched crookedly together with unskilled fingers.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_526",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "works of art",
+      "tacked to windows",
+      "hiding"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "These works of art were tacked to the windows, where they'll stay until we come out of hiding.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_527",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "urban environment",
+      "industrial sounds",
+      "visuals of buildings"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "The building on our right is a branch of the Keg Company, a firm from Zaandam, and on the left is a furniture workshop.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_528",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "empty premises",
+      "quiet atmosphere",
+      "awareness of thin walls"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Though the people who work there are not on the premises after hours, any sound we make might travel through the walls.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.31,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.29,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_529",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "coughing",
+      "nighttime",
+      "medicine taste",
+      "concern",
+      "feeling of illness"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "We've forbidden Margot to cough at night, even though she has a bad cold, and are giving her large doses of codeine.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_530",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "anticipation",
+      "waiting",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "I'm looking forward to the arrival of the van Daans, which is set for Tuesday.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_531",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "anticipation of fun",
+      "expectation of noise"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "It will be much more fun and also not as quiet.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.54,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.26,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_532",
+    "Temporal Context": {
+      "TimeOfDay": "Night",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "silence",
+      "nervous feeling",
+      "evening and night setting",
+      "desire for companionship"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "You see, it's the silence that makes me so nervous during the evenings and nights, and I'd give anything to have one of our helpers sleep here.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.58,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_533",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "cooking smells",
+      "sound of radio",
+      "familiar office environment",
+      "feeling of comfort"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "It's really not that bad here, since we can do our own cooking and can listen to the radio in Daddy's office.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.43,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.37,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_534",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm conversation",
+      "sense of gratitude",
+      "familiar voices",
+      "feeling of safety"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mr. Kleiman and Miep, and Bep Voskuijl too, have helped us so much.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_535",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "domestic environment",
+      "canned fruits",
+      "feeling of contentment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "We've already canned loads of rhubarb, strawberries and cherries, so for the time being I doubt we'll be bored.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_536",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "relaxed atmosphere",
+      "presence of reading material",
+      "anticipation of games"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We also have a supply of reading material, and we're going to buy lots of games.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.31,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_537",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "confined space",
+      "restricted view",
+      "feeling of isolation"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Of course, we can't ever look out the window or go outside.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_538",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "presence of others downstairs",
+      "feeling of secrecy"
+    ],
+    "Social Context": "With Others (but quietly)",
+    "Raw Text": "And we have to be quiet so the people downstairs can't hear us.",
+    "Predicted Emotion": "Curiosity",
+    "Predicted Intensity": 0.32,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.6,
+    "Error": 0.28,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_539",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "chaotic environment",
+      "feeling of overwhelm",
+      "family setting"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Yesterday we had our hands full.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.5,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.6,
+    "Error": 0.1,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_540",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "cherries",
+      "manual labor",
+      "canning preparation",
+      "domestic environment"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We had to pit two crates of cherries for Mr. Kugler to can.",
+    "Predicted Emotion": "Joy",
+    "Predicted Intensity": 0.29,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.4,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_541",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "empty crates",
+      "bookshelves",
+      "creative environment",
+      "feeling of productivity"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "We're going to use the empty crates to make bookshelves.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Joy",
+    "Actual Intensity": 0.8,
+    "Error": 0.31,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_542",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "sound of a voice",
+      "feeling of being summoned"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Someone's calling me.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.46,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.14,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_543",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "confined space",
+      "feeling of fear",
+      "thoughts of violence",
+      "wartime environment",
+      "feeling of isolation"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Yours, Anne COMMENT ADDED BY ANNE ON SEPTEMBER 2g, 1942: Not beina able to ao outside upsets me more than I can say, and I'm terrified our hidina place will be discovered and that we'll be shot.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.9,
+    "Error": 0.42,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_544",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "negative tone",
+      "feeling of gloom",
+      "introspective atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "That, of course, is a fairly dismal prospect.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_545",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "emotional distance",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "SUNDAY, JULY 12, 1942 , They've all been so nice to me this last month because of my birthday, and yet every day I feel myself drifting further away from Mother and Margot.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.09,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_546",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of accomplishment",
+      "sound of praise",
+      "feeling of confusion",
+      "emotional rollercoaster",
+      "office or work environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I worked hard today and they praised me, only to start picking on me again five minutes later.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_547",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "comparative gaze",
+      "emotional tension",
+      "social disparity",
+      "family environment",
+      "feeling of exclusion"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "You can easily see the difference between the way they deal with Margot and the way they deal with me.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.51,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.29,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_548",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "darkness",
+      "silence of broken appliance",
+      "feeling of frustration"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "For example, Margot broke the vacuum cleaner, and because of that we've been without light for the rest of the day.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.28,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.52,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_549",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "scolding tone",
+      "mother's voice",
+      "domestic environment",
+      "feeling of embarrassment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Mother said, \"Well, Margot, it's easy to see you're not used to working; otherwise, you'd have known better than to yank the plug out by the cord.\"",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.31,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_550",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "quiet atmosphere",
+      "feeling of closure",
+      "indoor setting",
+      "conversation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "Margot made some reply, and that was the end of the story.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.11,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_551",
+    "Temporal Context": {
+      "TimeOfDay": "Day",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "afternoon light",
+      "frustration",
+      "illegible handwriting",
+      "domestic environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "But this afternoon, when I wanted to rewrite something on Mother's shopping list because her handwriting is so hard to read, she wouldn't let me.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.6,
+    "Error": 0.36,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_552",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "yelling",
+      "family argument",
+      "feeling of tension",
+      "home environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "She bawled me out again, and the whole family wound up getting involved.",
+    "Predicted Emotion": "Anger",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Anger",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_553",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "emotional discomfort",
+      "school or social environment"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "I don't fit in with them, and I've felt that clearly in the last few weeks.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_554",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "emotional introspection",
+      "sentimental atmosphere"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "They're so sentimental together, but I'd rather be sentimental on my own.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.7,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_555",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "family environment",
+      "sense of disconnection"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "They're always saying how nice it is with the four of us, and that we get along so well, without giving a moment's thought to the fact that I don't feel that way.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.49,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.31,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_556",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of isolation",
+      "family environment",
+      "emotional turmoil"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Daddy's the only one who understands me, now and again, though he usually sides with Mother and Margot.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.48,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.32,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_557",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "feeling of embarrassment",
+      "being talked about",
+      "sense of exposure",
+      "emotional vulnerability"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "Another thing I can't stand is having them talk about me in front of outsiders, telling them how I cried or how sensibly I'm behaving.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_558",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of horror",
+      "emotional distress"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "It's horrible.",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.24,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.56,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_559",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emotional pain",
+      "feeling of sadness",
+      "hearing unwanted conversations"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "And sometimes they talk about Moortje and I can't take that at all.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_560",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "emotional vulnerability",
+      "personal admission",
+      "intimacy"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Moortje is my weak spot.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.0,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_561",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "tear-filled eyes",
+      "emotional pain",
+      "feeling of longing",
+      "intense nostalgia"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I miss her every minute of the day, and no one knows how often I think of her; whenever I do, my eyes fill with tears.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.9,
+    "Error": 0.52,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_562",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "feeling of longing",
+      "warm memories",
+      "sense of loss"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Moortje is so sweet, and I love her so much that I keep dreaming she'll come back to us.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.9,
+    "Error": 0.19,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_563",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Urgent"
+    },
+    "Sensory Features": [
+      "feeling of confinement",
+      "sense of uncertainty",
+      "war environment",
+      "feeling of desperation"
+    ],
+    "Social Context": "With Others",
+    "Raw Text": "I have plenty of dreams, but the reality is that we'll have to stay here until the war is over.",
+    "Predicted Emotion": "Fear",
+    "Predicted Intensity": 0.45,
+    "Actual Emotion": "Fear",
+    "Actual Intensity": 0.8,
+    "Error": 0.35,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_564",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "confined space",
+      "limited social interaction",
+      "feeling of isolation",
+      "restricted freedom"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "We can't ever go outside, and the only visitors we can have are Miep, her husband Jan, Bep Voskuijl, Mr. Voskuijl, Mr. Kugler, Mr. Kleiman and Mrs. Kleiman, though she hasn't come because she thinks it's too dangerous.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.8,
+    "Error": 0.5,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_565",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "written comment",
+      "historical document",
+      "formal tone"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "COMMENT ADDED BY ANNE IN SEPTEMBER 1942:",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": true
+  },
+  {
+    "Event ID": "event_566",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "warm tone",
+      "feeling of comfort",
+      "loving atmosphere",
+      "family environment"
+    ],
+    "Social Context": "With Family",
+    "Raw Text": "Daddy's always so nice.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.71,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.9,
+    "Error": 0.19,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_567",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "emotional vulnerability",
+      "desire for connection",
+      "feeling of being understood",
+      "threat of tears"
+    ],
+    "Social Context": "With Someone Trusted",
+    "Raw Text": "He understands me perfectly, and I wish we could have a heart-to-heart talk sometime without my bursting instantly into tears.",
+    "Predicted Emotion": "Love/Attachment",
+    "Predicted Intensity": 0.36,
+    "Actual Emotion": "Love/Attachment",
+    "Actual Intensity": 0.8,
+    "Error": 0.44,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_568",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "reflective tone",
+      "spoken words",
+      "possibly indoor environment",
+      "feeling of introspection"
+    ],
+    "Social Context": "With Strangers",
+    "Raw Text": "But apparently that has to do with my age.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.3,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.3,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_569",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet space",
+      "feeling of longing",
+      "thoughts of writing"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I'd like to spend all my time writing, but that would probably get boring.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_570",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Peaceful"
+    },
+    "Sensory Features": [
+      "private space",
+      "writing",
+      "feeling of solitude",
+      "personal reflection"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "Up to now I've only confided my thoughts to my diary.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.38,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.22,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_571",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "quiet solitude",
+      "feeling of procrastination",
+      "blank paper",
+      "writing environment"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "I still haven't gotten around to writing amusing sketches that I could read aloud at a later date.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Sadness",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": false
+  },
+  {
+    "Event ID": "event_572",
+    "Temporal Context": {
+      "TimeOfDay": "Unknown",
+      "Urgency": "Neutral"
+    },
+    "Sensory Features": [
+      "introspective mood",
+      "contemplative atmosphere",
+      "sense of determination"
+    ],
+    "Social Context": "Alone",
+    "Raw Text": "In the future I'm going to devote less time to sentimentality and more time to reality.",
+    "Predicted Emotion": "Sadness",
+    "Predicted Intensity": 0.8,
+    "Actual Emotion": "Curiosity",
+    "Actual Intensity": 0.6,
+    "Error": 0.2,
+    "Contradiction Logged": true
+  }
+]

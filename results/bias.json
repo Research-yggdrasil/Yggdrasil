@@ -1,0 +1,270 @@
+{
+  "feeling of chaos": {
+    "Fear": 1
+  },
+  "feeling of uncertainty": {
+    "Fear": 2
+  },
+  "Sunday afternoon": {
+    "Curiosity": 1
+  },
+  "whispered voice": {
+    "Fear": 1
+  },
+  "feeling of shock": {
+    "Fear": 1
+  },
+  "ominous tone": {
+    "Fear": 1
+  },
+  "dark visions": {
+    "Fear": 1
+  },
+  "feeling of guilt": {
+    "Sadness": 1
+  },
+  "anxious waiting": {
+    "Fear": 1
+  },
+  "group setting": {
+    "Joy": 1
+  },
+  "silence": {
+    "Sadness": 2
+  },
+  "heat": {
+    "Fear": 1
+  },
+  "doorbell ringing": {
+    "Fear": 1
+  },
+  "loud voice": {
+    "Fear": 1
+  },
+  "urgent voice": {
+    "Fear": 1
+  },
+  "muffled voices": {
+    "Curiosity": 1
+  },
+  "bell ringing": {
+    "Fear": 1
+  },
+  "being sent away": {
+    "Sadness": 1
+  },
+  "intimate setting": {
+    "Sadness": 1
+  },
+  "feeling of fear": {
+    "Fear": 3
+  },
+  "sense of uncertainty": {
+    "Fear": 1
+  },
+  "school environment": {
+    "Fear": 1,
+    "Curiosity": 1
+  },
+  "cluttered space": {
+    "Fear": 1
+  },
+  "arrival": {
+    "Joy": 1
+  },
+  "evening atmosphere": {
+    "Curiosity": 1
+  },
+  "arrival of visitors": {
+    "Joy": 1
+  },
+  "quick movements": {
+    "Fear": 1
+  },
+  "feeling of suffocation": {
+    "Sadness": 1
+  },
+  "uncertainty": {
+    "Fear": 1,
+    "Curiosity": 1
+  },
+  "written note": {
+    "Love/Attachment": 1
+  },
+  "quiet moment": {
+    "Love/Attachment": 2
+  },
+  "pouring rain": {
+    "Love/Attachment": 1
+  },
+  "early morning": {
+    "Sadness": 1
+  },
+  "walking": {
+    "Curiosity": 1
+  },
+  "office environment": {
+    "Curiosity": 2,
+    "Fear": 1
+  },
+  "indoor environment": {
+    "Curiosity": 2
+  },
+  "warehouse doors": {
+    "Curiosity": 1
+  },
+  "frosted window": {
+    "Curiosity": 1
+  },
+  "large space": {
+    "Curiosity": 1
+  },
+  "dark room": {
+    "Fear": 1
+  },
+  "elegant furniture": {
+    "Joy": 1
+  },
+  "spacious room": {
+    "Curiosity": 1
+  },
+  "stairs": {
+    "Curiosity": 1
+  },
+  "old house": {
+    "Curiosity": 1
+  },
+  "steep stairs": {
+    "Fear": 1
+  },
+  "small step": {
+    "Curiosity": 1
+  },
+  "indoor setting": {
+    "Curiosity": 1
+  },
+  "windowless": {
+    "Fear": 1
+  },
+  "large room": {
+    "Curiosity": 1
+  },
+  "stove": {
+    "Curiosity": 1
+  },
+  "plain tone": {
+    "Anger": 1
+  },
+  "quiet": {
+    "Love/Attachment": 1
+  },
+  "quiet room": {
+    "Love/Attachment": 1
+  },
+  "spoken narrative": {
+    "Curiosity": 1
+  },
+  "small room": {
+    "Fear": 1
+  },
+  "messy environment": {
+    "Anger": 1
+  },
+  "stillness": {
+    "Fear": 1
+  },
+  "bare mattresses": {
+    "Sadness": 1
+  },
+  "hunger": {
+    "Sadness": 1
+  },
+  "morning light": {
+    "Joy": 1
+  },
+  "busy atmosphere": {
+    "Love/Attachment": 1
+  },
+  "quiet reflection": {
+    "Sadness": 1
+  },
+  "reassuring sound": {
+    "Joy": 1
+  },
+  "feeling of secrecy": {
+    "Fear": 1
+  },
+  "hidden space": {
+    "Love/Attachment": 1
+  },
+  "damp": {
+    "Curiosity": 1
+  },
+  "colorful pictures": {
+    "Joy": 1
+  },
+  "wood piled in the attic": {
+    "Joy": 1
+  },
+  "relief": {
+    "Joy": 1
+  },
+  "private office": {
+    "Curiosity": 1
+  },
+  "fear of being heard": {
+    "Fear": 1
+  },
+  "sewing sounds": {
+    "Joy": 1
+  },
+  "works of art": {
+    "Fear": 1
+  },
+  "empty premises": {
+    "Fear": 1
+  },
+  "night": {
+    "Sadness": 1
+  },
+  "anticipation": {
+    "Joy": 1
+  },
+  "anticipation of fun": {
+    "Joy": 1
+  },
+  "domestic environment": {
+    "Joy": 1
+  },
+  "quiet atmosphere": {
+    "Fear": 1
+  },
+  "confined space": {
+    "Fear": 1,
+    "Sadness": 1
+  },
+  "feeling of isolation": {
+    "Sadness": 4
+  },
+  "feeling of accomplishment": {
+    "Anger": 1
+  },
+  "scolding tone": {
+    "Sadness": 1
+  },
+  "afternoon light": {
+    "Anger": 1
+  },
+  "feeling of embarrassment": {
+    "Sadness": 1
+  },
+  "feeling of horror": {
+    "Fear": 1
+  },
+  "emotional vulnerability": {
+    "Love/Attachment": 1
+  },
+  "introspective mood": {
+    "Curiosity": 1
+  }
+}
