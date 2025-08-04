@@ -121,6 +121,3 @@ Progress and summaries are printed to the console. Upon completion, results are 
 
 
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
