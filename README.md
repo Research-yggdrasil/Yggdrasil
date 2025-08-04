@@ -55,7 +55,7 @@ This project implements an emotionally grounded cognitive architecture inspired 
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/Research-yggdrasil/Yggdrasil.git](https://github.com/Research-yggdrasil/Yggdrasil.git)
+   git clone https://github.com/Research-yggdrasil/Yggdrasil.git
    cd project-midgard
    ```
 2. **Create a virtual environment**:
